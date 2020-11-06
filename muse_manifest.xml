@@ -1,0 +1,814 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://alexanderminkov.com" resolutions="1x" timestamp="1604632568165">
+  <folder name="css">
+    <file name="site_global.css" crc="4168310036"/>
+    <file name="master_a-master.css" crc="4184551188" ref="bosch-youseries:astro-lighting:red-cross-emergency-drone:squareone:index:ikea-modular-light:hands-free-dog-lead:the-braille-watch:morphy-richards-steam-iron:bosch-youseries---digital-solutions"/>
+    <file name="nomq_preview_master_a-master.css" crc="296535094" ref="bosch-youseries:astro-lighting:red-cross-emergency-drone:squareone:index:ikea-modular-light:hands-free-dog-lead:the-braille-watch:morphy-richards-steam-iron:bosch-youseries---digital-solutions"/>
+    <file name="bosch-youseries.css" crc="4058782653" ref="bosch-youseries"/>
+    <file name="nomq_bosch-youseries.css" crc="3968683003" ref="bosch-youseries"/>
+    <file name="astro-lighting.css" crc="3882933106" ref="astro-lighting"/>
+    <file name="nomq_astro-lighting.css" crc="329804729" ref="astro-lighting"/>
+    <file name="red-cross-emergency-drone.css" crc="528636670" ref="red-cross-emergency-drone"/>
+    <file name="nomq_red-cross-emergency-drone.css" crc="377102987" ref="red-cross-emergency-drone"/>
+    <file name="squareone.css" crc="3915124737" ref="squareone"/>
+    <file name="nomq_squareone.css" crc="128786704" ref="squareone"/>
+    <file name="index.css" crc="3853846532" ref="index"/>
+    <file name="nomq_index.css" crc="3776767590" ref="index"/>
+    <file name="ikea-modular-light.css" crc="3910032398" ref="ikea-modular-light"/>
+    <file name="nomq_ikea-modular-light.css" crc="154369836" ref="ikea-modular-light"/>
+    <file name="hands-free-dog-lead.css" crc="266542790" ref="hands-free-dog-lead"/>
+    <file name="nomq_hands-free-dog-lead.css" crc="4259831243" ref="hands-free-dog-lead"/>
+    <file name="the-braille-watch.css" crc="4147443761" ref="the-braille-watch"/>
+    <file name="nomq_the-braille-watch.css" crc="3863551139" ref="the-braille-watch"/>
+    <file name="morphy-richards-steam-iron.css" crc="358712436" ref="morphy-richards-steam-iron"/>
+    <file name="nomq_morphy-richards-steam-iron.css" crc="3761998604" ref="morphy-richards-steam-iron"/>
+    <file name="bosch-youseries---digital-solutions.css" crc="461443442" ref="bosch-youseries---digital-solutions"/>
+    <file name="nomq_bosch-youseries---digital-solutions.css" crc="465580625" ref="bosch-youseries---digital-solutions"/>
+  </folder>
+  <folder name="assets">
+    <file name="untitled-2.pdf" crc="459783574" seo="true" mt="1525749112000"/>
+    <file name="aleksandar-minkov,-smart-hydroponics---a-vision-for-homegrown-food,-major-project,-graduation-design-portfolio-2019-2020.pdf" crc="80713776" seo="true" mt="1590666979000"/>
+    <file name="aleksandar-minkov,-astro-lighting-project,-graduation-design-portfolio-2019-2020.pdf" crc="346251792" seo="true" mt="1590664210000"/>
+    <file name="w-innovate.pdf" crc="486031203" seo="true" mt="1514946902000"/>
+    <file name="aleksandar-minkov-professional-design-practice-2018.pdf" crc="4068278752" seo="true" mt="1604189888000"/>
+    <file name="minkovaleksandar_advanced-design-principles_-ikea-project_2017-logbook.pdf" crc="4166024775" seo="true" mt="1514947910000"/>
+    <file name="aleksandar-minkov-professional-design-practice-2018-morphy-ritchards.pdf" crc="225643807" seo="true" mt="1604190194000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="museutils.js" crc="3851988764" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="whatinput.js" crc="86476730" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="require.js" crc="4108833657" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="pie.js" crc="3831537696" ref="squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:morphy-richards-steam-iron:ikea-modular-light"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.svg" crc="3866719408" seo="true" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="logo_poster_.png" crc="386471533" ref="index"/>
+    <file name="3-crop-u212.jpg" crc="4129900850" ref="index"/>
+    <file name="348 blured psed.jpg" crc="8154943" ref="index"/>
+    <file name="dscf2016.jpg" crc="522283575" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image.jpg" crc="99785389" ref="index"/>
+    <file name="1 croped.jpg" crc="3815695477" ref="index"/>
+    <file name="poster v4-min - copy.jpg" crc="112006598" ref="index"/>
+    <file name="12.jpg" crc="3983054969" ref="index"/>
+    <file name="51.jpg" crc="263352202" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4.png" crc="67501814" ref="index"/>
+    <file name="linkedin_logo_initials.png" crc="4217569094" ref="index"/>
+    <file name="behance-2-logo-png-transparent.png" crc="527394632" ref="index"/>
+    <file name="3-crop-u2122.jpg" crc="342651336" ref="index"/>
+    <file name="3-crop-u2123.jpg" crc="3884287145" ref="index"/>
+    <file name="3-crop-u2124.jpg" crc="3847709452" ref="index"/>
+    <file name="dscf2016-u686-fr.jpg" crc="360047558" ref="index"/>
+    <file name="3-crop-u2125.jpg" crc="165569678" ref="index"/>
+    <file name="348 blured psed-u683-fr.jpg" crc="72388066" ref="index"/>
+    <file name="dscf2016-u686-fr2.jpg" crc="374713622" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr.jpg" crc="454771242" ref="index"/>
+    <file name="1 croped-u5636-fr.jpg" crc="4277195523" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr.jpg" crc="355860280" ref="index"/>
+    <file name="12-u1222-fr.jpg" crc="367372202" ref="index"/>
+    <file name="51-u1225-fr.jpg" crc="3976476695" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr.png" crc="4160668949" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr.png" crc="3968668989" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr.png" crc="338548630" ref="index"/>
+    <file name="3-crop-u2126.jpg" crc="167079123" ref="index"/>
+    <file name="dscf2016-u686-fr3.jpg" crc="4274191316" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr2.png" crc="3926563777" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr2.png" crc="4153711136" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr2.png" crc="4195034025" ref="index"/>
+    <file name="3-crop-u2127.jpg" crc="232430024" ref="index"/>
+    <file name="348 blured psed-u683-fr2.jpg" crc="92011463" ref="index"/>
+    <file name="dscf2016-u686-fr4.jpg" crc="4220703733" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr2.jpg" crc="280122854" ref="index"/>
+    <file name="1 croped-u5636-fr2.jpg" crc="363852457" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr2.jpg" crc="3852471587" ref="index"/>
+    <file name="12-u1222-fr2.jpg" crc="3835879363" ref="index"/>
+    <file name="51-u1225-fr2.jpg" crc="3844770294" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr3.png" crc="3773735869" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr3.png" crc="3808934129" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr3.png" crc="68762916" ref="index"/>
+    <file name="3-crop-u2128.jpg" crc="439883579" ref="index"/>
+    <file name="348 blured psed-u683-fr3.jpg" crc="4033321041" ref="index"/>
+    <file name="dscf2016-u686-fr5.jpg" crc="230414370" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr3.jpg" crc="288362263" ref="index"/>
+    <file name="1 croped-u5636-fr3.jpg" crc="4272039429" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr3.jpg" crc="3891037667" ref="index"/>
+    <file name="12-u1222-fr3.jpg" crc="3768783027" ref="index"/>
+    <file name="51-u1225-fr3.jpg" crc="3830439029" ref="index"/>
+    <file name="3-crop-u2129.jpg" crc="4022659209" ref="index"/>
+    <file name="348 blured psed-u683-fr4.jpg" crc="22442393" ref="index"/>
+    <file name="dscf2016-u686-fr6.jpg" crc="4229470758" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr4.jpg" crc="397917807" ref="index"/>
+    <file name="1 croped-u5636-fr4.jpg" crc="4146302003" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr4.jpg" crc="4185722506" ref="index"/>
+    <file name="12-u1222-fr4.jpg" crc="2157451" ref="index"/>
+    <file name="51-u1225-fr4.jpg" crc="503521482" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr4.png" crc="4089087641" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr4.png" crc="3874171974" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr4.png" crc="305969775" ref="index"/>
+    <file name="3-crop-u21210.jpg" crc="493965500" ref="index"/>
+    <file name="348 blured psed-u683-fr5.jpg" crc="251082043" ref="index"/>
+    <file name="dscf2016-u686-fr7.jpg" crc="3971243817" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr5.jpg" crc="3824786015" ref="index"/>
+    <file name="1 croped-u5636-fr5.jpg" crc="354430250" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr5.jpg" crc="3844099032" ref="index"/>
+    <file name="12-u1222-fr5.jpg" crc="4096742715" ref="index"/>
+    <file name="51-u1225-fr5.jpg" crc="3967525782" ref="index"/>
+    <file name="nav icon.svg" crc="4052929389" ref="index"/>
+    <file name="nav icon_poster_u15161.png" crc="101211243" ref="index"/>
+    <file name="close mobile nav icon.svg" crc="244514711" ref="index"/>
+    <file name="close mobile nav icon_poster_u15167.png" crc="509439353" ref="index"/>
+    <file name="3-u212.png" crc="4165189151" ref="index"/>
+    <file name="348 blured psed-u683-fr6.jpg" crc="3834076118" ref="index"/>
+    <file name="dscf2016-u686-fr8.jpg" crc="4202050263" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr6.jpg" crc="4034081335" ref="index"/>
+    <file name="1 croped-u5636-fr6.jpg" crc="4056851647" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr6.jpg" crc="4092784914" ref="index"/>
+    <file name="12-u1222-fr6.jpg" crc="4153273460" ref="index"/>
+    <file name="51-u1225-fr6.jpg" crc="355216338" ref="index"/>
+    <file name="3-u2122.png" crc="403419743" ref="index"/>
+    <file name="348 blured psed-u683-fr7.jpg" crc="536191275" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr7.jpg" crc="3854922702" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr7.jpg" crc="453431506" ref="index"/>
+    <file name="dscf2016-u686-fr9.jpg" crc="78460432" ref="index"/>
+    <file name="12-u1222-fr7.jpg" crc="486222651" ref="index"/>
+    <file name="1 croped-u5636-fr7.jpg" crc="3893848872" ref="index"/>
+    <file name="51-u1225-fr7.jpg" crc="366262618" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr5.png" crc="3808270935" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr5.png" crc="4059429937" ref="index"/>
+    <file name="3-u2123.png" crc="153702467" ref="index"/>
+    <file name="348 blured psed-u683-fr8.jpg" crc="4016458921" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr8.jpg" crc="525717737" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr8.jpg" crc="3904071240" ref="index"/>
+    <file name="dscf2016-u686-fr10.jpg" crc="8672293" ref="index"/>
+    <file name="12-u1222-fr8.jpg" crc="3966393624" ref="index"/>
+    <file name="1 croped-u5636-fr8.jpg" crc="4125655253" ref="index"/>
+    <file name="51-u1225-fr8.jpg" crc="2782613" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr6.png" crc="4093291799" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr5.png" crc="64452717" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr6.png" crc="157663615" ref="index"/>
+    <file name="3-u2124.png" crc="160775311" ref="index"/>
+    <file name="348 blured psed-u683-fr9.jpg" crc="3886919342" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr9.jpg" crc="359918736" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr9.jpg" crc="214139400" ref="index"/>
+    <file name="dscf2016-u686-fr11.jpg" crc="125220448" ref="index"/>
+    <file name="12-u1222-fr9.jpg" crc="4236264091" ref="index"/>
+    <file name="1 croped-u5636-fr9.jpg" crc="417967143" ref="index"/>
+    <file name="51-u1225-fr9.jpg" crc="3785070739" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr7.png" crc="4078885760" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr6.png" crc="206113963" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr7.png" crc="749404" ref="index"/>
+    <file name="3-u2125.png" crc="445597210" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr10.jpg" crc="222947791" ref="index"/>
+    <file name="348 blured psed-u683-fr10.jpg" crc="3877975874" ref="index"/>
+    <file name="dscf2016-u686-fr12.jpg" crc="289026437" ref="index"/>
+    <file name="1 croped-u5636-fr10.jpg" crc="89023373" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr10.jpg" crc="4261922338" ref="index"/>
+    <file name="12-u1222-fr10.jpg" crc="3998135078" ref="index"/>
+    <file name="51-u1225-fr10.jpg" crc="72970133" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr8.png" crc="4070019519" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr7.png" crc="64338186" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr8.png" crc="3788716113" ref="index"/>
+    <file name="3-u2126.png" crc="3942235006" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr11.jpg" crc="3824995128" ref="index"/>
+    <file name="348 blured psed-u683-fr11.jpg" crc="448460574" ref="index"/>
+    <file name="dscf2016-u686-fr13.jpg" crc="450195647" ref="index"/>
+    <file name="1 croped-u5636-fr11.jpg" crc="4234903205" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr11.jpg" crc="104312277" ref="index"/>
+    <file name="12-u1222-fr11.jpg" crc="103477505" ref="index"/>
+    <file name="51-u1225-fr11.jpg" crc="235229346" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="main-crop-u59968.jpg" crc="4130337384" ref="squareone"/>
+    <file name="insights-crop-u59948.jpg" crc="261141177" ref="squareone"/>
+    <file name="second-crop-u55538.jpg" crc="289056531" ref="squareone"/>
+    <file name="sketches.jpg" crc="84497928" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u59421.jpg" crc="4254604820" ref="squareone"/>
+    <file name="tests 2.jpg" crc="206698680" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u56065.jpg" crc="298223427" ref="squareone"/>
+    <file name="instructions.jpg" crc="446930798" seo="true" ref="squareone"/>
+    <file name="essential elemnt.jpg" crc="4049173247" seo="true" ref="squareone"/>
+    <file name="connectivity.jpg" crc="359725076" seo="true" ref="squareone"/>
+    <file name="digital interface.jpg" crc="4251257882" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u59935.jpg" crc="3806759372" ref="squareone"/>
+    <file name="main-crop-u599682.jpg" crc="19124635" ref="squareone"/>
+    <file name="insights-crop-u599482.jpg" crc="3988379776" ref="squareone"/>
+    <file name="second-crop-u555382.jpg" crc="475494679" ref="squareone"/>
+    <file name="concrete-crop-u594212.jpg" crc="289133196" ref="squareone"/>
+    <file name="concept delivery-crop-u560652.jpg" crc="393784793" ref="squareone"/>
+    <file name="brand identity-crop-u599352.jpg" crc="450158092" ref="squareone"/>
+    <file name="main-crop-u599683.jpg" crc="130213834" ref="squareone"/>
+    <file name="insights-crop-u599483.jpg" crc="4058729341" ref="squareone"/>
+    <file name="second-crop-u555383.jpg" crc="3800781620" ref="squareone"/>
+    <file name="concrete-crop-u594213.jpg" crc="4207923063" ref="squareone"/>
+    <file name="concept delivery-crop-u560653.jpg" crc="306645472" ref="squareone"/>
+    <file name="brand identity-crop-u599353.jpg" crc="3885385304" ref="squareone"/>
+    <file name="main-crop-u599684.jpg" crc="3965157200" ref="squareone"/>
+    <file name="insights-crop-u599484.jpg" crc="4253422766" ref="squareone"/>
+    <file name="second-crop-u555384.jpg" crc="4168171492" ref="squareone"/>
+    <file name="concrete-crop-u594214.jpg" crc="235967180" ref="squareone"/>
+    <file name="concept delivery-crop-u560654.jpg" crc="3951720129" ref="squareone"/>
+    <file name="brand identity-crop-u599354.jpg" crc="4291924531" ref="squareone"/>
+    <file name="main-crop-u599685.jpg" crc="4018754605" ref="squareone"/>
+    <file name="insights-crop-u599485.jpg" crc="510158612" ref="squareone"/>
+    <file name="second-crop-u555385.jpg" crc="3839132363" ref="squareone"/>
+    <file name="concrete-crop-u594215.jpg" crc="4205853165" ref="squareone"/>
+    <file name="concept delivery-crop-u560655.jpg" crc="147424409" ref="squareone"/>
+    <file name="brand identity-crop-u599355.jpg" crc="421507698" ref="squareone"/>
+    <file name="main-crop-u599686.jpg" crc="280041973" ref="squareone"/>
+    <file name="insights-crop-u599486.jpg" crc="3801104867" ref="squareone"/>
+    <file name="second-crop-u555386.jpg" crc="230530344" ref="squareone"/>
+    <file name="concrete-crop-u594216.jpg" crc="4185811233" ref="squareone"/>
+    <file name="concept delivery-crop-u560656.jpg" crc="420344254" ref="squareone"/>
+    <file name="brand identity-crop-u599356.jpg" crc="3965455982" ref="squareone"/>
+    <file name="main-crop-u599687.jpg" crc="4210060705" ref="squareone"/>
+    <file name="insights-crop-u599487.jpg" crc="95342914" ref="squareone"/>
+    <file name="second-crop-u555387.jpg" crc="3777654327" ref="squareone"/>
+    <file name="concrete-crop-u594217.jpg" crc="4188514884" ref="squareone"/>
+    <file name="concept delivery-crop-u560657.jpg" crc="282524656" ref="squareone"/>
+    <file name="brand identity-crop-u599357.jpg" crc="394193076" ref="squareone"/>
+    <file name="main-crop-u599688.jpg" crc="3986885633" ref="squareone"/>
+    <file name="insights-crop-u599488.jpg" crc="380718" ref="squareone"/>
+    <file name="second-crop-u555388.jpg" crc="3918286481" ref="squareone"/>
+    <file name="sketches1011x864.jpg" crc="134364286" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u594218.jpg" crc="326398757" ref="squareone"/>
+    <file name="tests 21011x836.jpg" crc="4039448314" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u560658.jpg" crc="421955841" ref="squareone"/>
+    <file name="instructions1011x781.jpg" crc="3926969610" seo="true" ref="squareone"/>
+    <file name="essential elemnt1011x715.jpg" crc="4204020312" seo="true" ref="squareone"/>
+    <file name="connectivity1011x715.jpg" crc="4017776885" seo="true" ref="squareone"/>
+    <file name="digital interface1011x792.jpg" crc="237685729" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u599358.jpg" crc="3793064648" ref="squareone"/>
+    <file name="main-crop-u599689.jpg" crc="4091899478" ref="squareone"/>
+    <file name="insights-crop-u599489.jpg" crc="3928473311" ref="squareone"/>
+    <file name="second-crop-u555389.jpg" crc="110285499" ref="squareone"/>
+    <file name="sketches947x810.jpg" crc="3888280244" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u594219.jpg" crc="38365378" ref="squareone"/>
+    <file name="tests 2947x783.jpg" crc="4277525381" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u560659.jpg" crc="3842102116" ref="squareone"/>
+    <file name="instructions947x732.jpg" crc="20674829" seo="true" ref="squareone"/>
+    <file name="essential elemnt947x670.jpg" crc="56297397" seo="true" ref="squareone"/>
+    <file name="connectivity947x670.jpg" crc="4069602130" seo="true" ref="squareone"/>
+    <file name="digital interface947x742.jpg" crc="4141514236" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u599359.jpg" crc="230944953" ref="squareone"/>
+    <file name="main-crop-u5996810.jpg" crc="3759426827" ref="squareone"/>
+    <file name="insights-crop-u5994810.jpg" crc="105510713" ref="squareone"/>
+    <file name="second-crop-u5553810.jpg" crc="4194558673" ref="squareone"/>
+    <file name="sketches758x648.jpg" crc="159911122" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u5942110.jpg" crc="270731531" ref="squareone"/>
+    <file name="tests 2758x627.jpg" crc="475638100" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u5606510.jpg" crc="489045713" ref="squareone"/>
+    <file name="instructions758x586.jpg" crc="33778033" seo="true" ref="squareone"/>
+    <file name="essential elemnt758x536.jpg" crc="496512747" seo="true" ref="squareone"/>
+    <file name="connectivity758x536.jpg" crc="506910629" seo="true" ref="squareone"/>
+    <file name="digital interface758x594.jpg" crc="3888010830" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u5993510.jpg" crc="510205886" ref="squareone"/>
+    <file name="main-crop-u5996811.jpg" crc="531700180" ref="squareone"/>
+    <file name="insights-crop-u5994811.jpg" crc="205863443" ref="squareone"/>
+    <file name="second-crop-u5553811.jpg" crc="293351663" ref="squareone"/>
+    <file name="sketches568x486.jpg" crc="415043577" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u5942111.jpg" crc="424281232" ref="squareone"/>
+    <file name="tests 2568x470.jpg" crc="496227345" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u5606511.jpg" crc="402194343" ref="squareone"/>
+    <file name="instructions568x439.jpg" crc="94418269" seo="true" ref="squareone"/>
+    <file name="essential elemnt568x402.jpg" crc="4060077332" seo="true" ref="squareone"/>
+    <file name="connectivity568x402.jpg" crc="161596811" seo="true" ref="squareone"/>
+    <file name="digital interface568x446.jpg" crc="4197789437" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u5993511.jpg" crc="4156274187" ref="squareone"/>
+    <file name="main-crop-u5996812.jpg" crc="111304548" ref="squareone"/>
+    <file name="insights-crop-u5994812.jpg" crc="361859272" ref="squareone"/>
+    <file name="second-crop-u5553812.jpg" crc="123247353" ref="squareone"/>
+    <file name="sketches494x422.jpg" crc="3831049383" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u5942112.jpg" crc="4163340779" ref="squareone"/>
+    <file name="tests 2494x408.jpg" crc="25058408" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u5606512.jpg" crc="533730245" ref="squareone"/>
+    <file name="instructions494x382.jpg" crc="262947348" seo="true" ref="squareone"/>
+    <file name="essential elemnt494x349.jpg" crc="4091560889" seo="true" ref="squareone"/>
+    <file name="connectivity494x349.jpg" crc="3760120130" seo="true" ref="squareone"/>
+    <file name="digital interface494x387.jpg" crc="3829144134" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u5993512.jpg" crc="135326187" ref="squareone"/>
+    <file name="main-crop-u5996813.jpg" crc="3909010148" ref="squareone"/>
+    <file name="insights-crop-u5994813.jpg" crc="357825799" ref="squareone"/>
+    <file name="second-crop-u5553813.jpg" crc="3950985545" ref="squareone"/>
+    <file name="sketches416x355.jpg" crc="4142726511" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u5942113.jpg" crc="4065809435" ref="squareone"/>
+    <file name="tests 2416x344.jpg" crc="4070655789" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u5606513.jpg" crc="4200531294" ref="squareone"/>
+    <file name="instructions416x321.jpg" crc="462500184" seo="true" ref="squareone"/>
+    <file name="essential elemnt416x294.jpg" crc="442211832" seo="true" ref="squareone"/>
+    <file name="connectivity416x294.jpg" crc="412660461" seo="true" ref="squareone"/>
+    <file name="digital interface416x326.jpg" crc="3849438939" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u5993513.jpg" crc="230323205" ref="squareone"/>
+    <file name="main-crop-u5996814.jpg" crc="382073375" ref="squareone"/>
+    <file name="insights-crop-u5994814.jpg" crc="254911896" ref="squareone"/>
+    <file name="second-crop-u5553814.jpg" crc="4001426111" ref="squareone"/>
+    <file name="sketches361x308.jpg" crc="238738273" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u5942114.jpg" crc="301478797" ref="squareone"/>
+    <file name="tests 2361x298.jpg" crc="484812049" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u5606514.jpg" crc="4264615050" ref="squareone"/>
+    <file name="instructions361x279.jpg" crc="4012805324" seo="true" ref="squareone"/>
+    <file name="essential elemnt361x255.jpg" crc="4102263073" seo="true" ref="squareone"/>
+    <file name="connectivity361x255.jpg" crc="288645242" seo="true" ref="squareone"/>
+    <file name="digital interface361x283.jpg" crc="104592765" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u5993514.jpg" crc="4105015696" ref="squareone"/>
+    <file name="main-crop-u5996815.jpg" crc="3883737996" ref="squareone"/>
+    <file name="insights-crop-u5994815.jpg" crc="418812799" ref="squareone"/>
+    <file name="second-crop-u5553815.jpg" crc="514053511" ref="squareone"/>
+    <file name="sketches337x288.jpg" crc="4229783522" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u5942115.jpg" crc="433962481" ref="squareone"/>
+    <file name="tests 2337x278.jpg" crc="4256136493" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u5606515.jpg" crc="4236316990" ref="squareone"/>
+    <file name="instructions337x260.jpg" crc="466230383" seo="true" ref="squareone"/>
+    <file name="essential elemnt337x238.jpg" crc="3896137122" seo="true" ref="squareone"/>
+    <file name="connectivity337x238.jpg" crc="481461116" seo="true" ref="squareone"/>
+    <file name="digital interface337x264.jpg" crc="3913484775" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u5993515.jpg" crc="246509709" ref="squareone"/>
+    <file name="main-crop-u5996816.jpg" crc="3870425155" ref="squareone"/>
+    <file name="insights-crop-u5994816.jpg" crc="222221864" ref="squareone"/>
+    <file name="second-crop-u5553816.jpg" crc="3812636057" ref="squareone"/>
+    <file name="sketches299x256.jpg" crc="3894388735" seo="true" ref="squareone"/>
+    <file name="concrete-crop-u5942116.jpg" crc="4096607181" ref="squareone"/>
+    <file name="tests 2299x247.jpg" crc="4115102371" seo="true" ref="squareone"/>
+    <file name="concept delivery-crop-u5606516.jpg" crc="4210312906" ref="squareone"/>
+    <file name="instructions299x231.jpg" crc="92706621" seo="true" ref="squareone"/>
+    <file name="essential elemnt299x212.jpg" crc="4155031814" seo="true" ref="squareone"/>
+    <file name="connectivity299x212.jpg" crc="172654689" seo="true" ref="squareone"/>
+    <file name="digital interface299x235.jpg" crc="324334506" seo="true" ref="squareone"/>
+    <file name="brand identity-crop-u5993516.jpg" crc="252278535" ref="squareone"/>
+    <file name="main-crop-u60970.jpg" crc="265404715" ref="astro-lighting"/>
+    <file name="setup-crop-u62630.jpg" crc="4124147447" ref="astro-lighting"/>
+    <file name="inspiration.jpg" crc="345634146" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u61546.jpg" crc="236123978" ref="astro-lighting"/>
+    <file name="sketches2.jpg" crc="4180205925" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u61578.jpg" crc="3768627895" ref="astro-lighting"/>
+    <file name="table light 1.jpg" crc="3761581201" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u61610.jpg" crc="391874006" ref="astro-lighting"/>
+    <file name="table light 3-crop-u61626.jpg" crc="352367214" ref="astro-lighting"/>
+    <file name="wall light.jpg" crc="3998596378" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light.jpg" crc="3962801523" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u609702.jpg" crc="4178349074" ref="astro-lighting"/>
+    <file name="setup-crop-u626302.jpg" crc="4012472695" ref="astro-lighting"/>
+    <file name="visit-crop-u615462.jpg" crc="4218821643" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615782.jpg" crc="16003117" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616102.jpg" crc="4185389548" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616262.jpg" crc="4131717019" ref="astro-lighting"/>
+    <file name="main-crop-u609703.jpg" crc="79439993" ref="astro-lighting"/>
+    <file name="setup-crop-u626303.jpg" crc="407821640" ref="astro-lighting"/>
+    <file name="visit-crop-u615463.jpg" crc="3825568928" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615783.jpg" crc="385896343" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616103.jpg" crc="251933443" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616263.jpg" crc="4261383790" ref="astro-lighting"/>
+    <file name="main-crop-u609704.jpg" crc="109455438" ref="astro-lighting"/>
+    <file name="setup-crop-u626304.jpg" crc="4164085752" ref="astro-lighting"/>
+    <file name="visit-crop-u615464.jpg" crc="4197422589" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615784.jpg" crc="4183990385" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616104.jpg" crc="326004453" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616264.jpg" crc="509656014" ref="astro-lighting"/>
+    <file name="main-crop-u609705.jpg" crc="473057771" ref="astro-lighting"/>
+    <file name="setup-crop-u626305.jpg" crc="8287923" ref="astro-lighting"/>
+    <file name="visit-crop-u615465.jpg" crc="336541542" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615785.jpg" crc="340581219" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616105.jpg" crc="4264974738" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616265.jpg" crc="4037411194" ref="astro-lighting"/>
+    <file name="main-crop-u609706.jpg" crc="3803853797" ref="astro-lighting"/>
+    <file name="setup-crop-u626306.jpg" crc="3869969410" ref="astro-lighting"/>
+    <file name="visit-crop-u615466.jpg" crc="4223829150" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615786.jpg" crc="257609693" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616106.jpg" crc="3921388993" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616266.jpg" crc="73591103" ref="astro-lighting"/>
+    <file name="main-crop-u609707.jpg" crc="3907667586" ref="astro-lighting"/>
+    <file name="setup-crop-u626307.jpg" crc="40246208" ref="astro-lighting"/>
+    <file name="inspiration1011x715.jpg" crc="3822720258" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u615467.jpg" crc="249073779" ref="astro-lighting"/>
+    <file name="sketches1011x715.jpg" crc="4007464751" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615787.jpg" crc="524563378" ref="astro-lighting"/>
+    <file name="table light 11011x781.jpg" crc="293434793" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616107.jpg" crc="4099439543" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616267.jpg" crc="18891160" ref="astro-lighting"/>
+    <file name="wall light1011x1080.jpg" crc="3762568708" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light1011x792.jpg" crc="4125635641" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u609708.jpg" crc="21378799" ref="astro-lighting"/>
+    <file name="setup-crop-u626308.jpg" crc="4275993000" ref="astro-lighting"/>
+    <file name="inspiration947x670.jpg" crc="3913380447" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u615468.jpg" crc="164873167" ref="astro-lighting"/>
+    <file name="sketches947x670.jpg" crc="243652305" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615788.jpg" crc="460547031" ref="astro-lighting"/>
+    <file name="table light 1947x732.jpg" crc="3909650272" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616108.jpg" crc="4174009892" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616268.jpg" crc="17573105" ref="astro-lighting"/>
+    <file name="wall light947x1012.jpg" crc="293495540" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light947x742.jpg" crc="3869368178" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u609709.jpg" crc="4012744301" ref="astro-lighting"/>
+    <file name="setup-crop-u626309.jpg" crc="3814904277" ref="astro-lighting"/>
+    <file name="inspiration758x536.jpg" crc="439525862" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u615469.jpg" crc="319898178" ref="astro-lighting"/>
+    <file name="sketches758x536.jpg" crc="7257734" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u615789.jpg" crc="4024222682" ref="astro-lighting"/>
+    <file name="table light 1758x586.jpg" crc="71374239" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u616109.jpg" crc="4170159554" ref="astro-lighting"/>
+    <file name="table light 3-crop-u616269.jpg" crc="4149995697" ref="astro-lighting"/>
+    <file name="wall light758x810.jpg" crc="501837147" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light758x594.jpg" crc="4077714134" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u6097010.jpg" crc="3934100711" ref="astro-lighting"/>
+    <file name="setup-crop-u6263010.jpg" crc="4105206248" ref="astro-lighting"/>
+    <file name="inspiration568x402.jpg" crc="4221153311" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u6154610.jpg" crc="4006877013" ref="astro-lighting"/>
+    <file name="sketches568x402.jpg" crc="4171998220" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u6157810.jpg" crc="4212533540" ref="astro-lighting"/>
+    <file name="table light 1568x439.jpg" crc="4079780393" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u6161010.jpg" crc="3975739929" ref="astro-lighting"/>
+    <file name="table light 3-crop-u6162610.jpg" crc="270246960" ref="astro-lighting"/>
+    <file name="wall light568x608.jpg" crc="4027710112" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light568x446.jpg" crc="3932365463" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u6097011.jpg" crc="4014920848" ref="astro-lighting"/>
+    <file name="setup-crop-u6263011.jpg" crc="4060106849" ref="astro-lighting"/>
+    <file name="inspiration494x349.jpg" crc="3964099338" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u6154611.jpg" crc="251294908" ref="astro-lighting"/>
+    <file name="sketches494x349.jpg" crc="3866554456" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u6157811.jpg" crc="486366513" ref="astro-lighting"/>
+    <file name="table light 1494x382.jpg" crc="190864924" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u6161011.jpg" crc="3856764096" ref="astro-lighting"/>
+    <file name="table light 3-crop-u6162611.jpg" crc="3997259412" ref="astro-lighting"/>
+    <file name="wall light494x528.jpg" crc="41798470" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light494x387.jpg" crc="3772464587" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u6097012.jpg" crc="404308380" ref="astro-lighting"/>
+    <file name="setup-crop-u6263012.jpg" crc="3799581657" ref="astro-lighting"/>
+    <file name="inspiration407x288.jpg" crc="132711995" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u6154612.jpg" crc="4293195098" ref="astro-lighting"/>
+    <file name="sketches407x288.jpg" crc="4130713042" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u6157812.jpg" crc="3855024429" ref="astro-lighting"/>
+    <file name="table light 1407x314.jpg" crc="252990846" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u6161012.jpg" crc="521383585" ref="astro-lighting"/>
+    <file name="table light 3-crop-u6162612.jpg" crc="4154908780" ref="astro-lighting"/>
+    <file name="wall light407x435.jpg" crc="4162152585" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light407x319.jpg" crc="407245736" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u6097013.jpg" crc="4103472614" ref="astro-lighting"/>
+    <file name="setup-crop-u6263013.jpg" crc="429621566" ref="astro-lighting"/>
+    <file name="inspiration349x247.jpg" crc="4115611542" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u6154613.jpg" crc="253410929" ref="astro-lighting"/>
+    <file name="sketches349x247.jpg" crc="368640907" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u6157813.jpg" crc="4181374703" ref="astro-lighting"/>
+    <file name="table light 1349x269.jpg" crc="470465542" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u6161013.jpg" crc="4288901923" ref="astro-lighting"/>
+    <file name="table light 3-crop-u6162613.jpg" crc="140144852" ref="astro-lighting"/>
+    <file name="wall light349x373.jpg" crc="4050901966" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light349x273.jpg" crc="4191889194" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u6097014.jpg" crc="4237797719" ref="astro-lighting"/>
+    <file name="setup-crop-u6263014.jpg" crc="150670991" ref="astro-lighting"/>
+    <file name="inspiration309x218.jpg" crc="519874099" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u6154614.jpg" crc="4245991773" ref="astro-lighting"/>
+    <file name="sketches309x218.jpg" crc="3919801604" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u6157814.jpg" crc="4187459019" ref="astro-lighting"/>
+    <file name="table light 1309x239.jpg" crc="3978887493" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u6161014.jpg" crc="273341400" ref="astro-lighting"/>
+    <file name="table light 3-crop-u6162614.jpg" crc="4027748201" ref="astro-lighting"/>
+    <file name="wall light309x330.jpg" crc="3770699976" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light309x242.jpg" crc="334324107" seo="true" ref="astro-lighting"/>
+    <file name="main-crop-u6097015.jpg" crc="4196494516" ref="astro-lighting"/>
+    <file name="setup-crop-u6263015.jpg" crc="474924882" ref="astro-lighting"/>
+    <file name="inspiration274x194.jpg" crc="3774183392" seo="true" ref="astro-lighting"/>
+    <file name="visit-crop-u6154615.jpg" crc="457371384" ref="astro-lighting"/>
+    <file name="sketches274x194.jpg" crc="187927610" seo="true" ref="astro-lighting"/>
+    <file name="prototyping-crop-u6157815.jpg" crc="3875329871" ref="astro-lighting"/>
+    <file name="table light 1274x212.jpg" crc="214938080" seo="true" ref="astro-lighting"/>
+    <file name="table light 2-crop-u6161015.jpg" crc="325675113" ref="astro-lighting"/>
+    <file name="table light 3-crop-u6162615.jpg" crc="283441877" ref="astro-lighting"/>
+    <file name="wall light274x293.jpg" crc="3893023562" seo="true" ref="astro-lighting"/>
+    <file name="ceiling light274x215.jpg" crc="359037848" seo="true" ref="astro-lighting"/>
+    <file name="opening-crop-u70099.jpg" crc="3869589798" ref="hands-free-dog-lead"/>
+    <file name="insights.jpg" crc="4277022053" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach.jpg" crc="3942626605" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching.jpg" crc="4168643289" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u70612.jpg" crc="4042205675" ref="hands-free-dog-lead"/>
+    <file name="tests.jpg" crc="4112585353" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u70622.jpg" crc="240991054" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700992.jpg" crc="77514839" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706122.jpg" crc="4039631498" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706222.jpg" crc="3853979021" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700993.jpg" crc="194091930" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706123.jpg" crc="3961589532" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706223.jpg" crc="244704235" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700994.jpg" crc="215449987" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706124.jpg" crc="4053778820" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706224.jpg" crc="4073508307" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700995.jpg" crc="4237236705" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706125.jpg" crc="3992572700" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706225.jpg" crc="252372481" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700996.jpg" crc="4054919589" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706126.jpg" crc="66219242" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706226.jpg" crc="4038973037" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700997.jpg" crc="3996802484" ref="hands-free-dog-lead"/>
+    <file name="insights1011x864.jpg" crc="274941876" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach1011x715.jpg" crc="4211176587" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching1011x715.jpg" crc="514719620" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706127.jpg" crc="3827439809" ref="hands-free-dog-lead"/>
+    <file name="tests1011x715.jpg" crc="3909626268" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706227.jpg" crc="125646876" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700998.jpg" crc="3803565969" ref="hands-free-dog-lead"/>
+    <file name="insights947x810.jpg" crc="23304494" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach947x670.jpg" crc="516445690" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching947x670.jpg" crc="4037323515" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706128.jpg" crc="487084963" ref="hands-free-dog-lead"/>
+    <file name="tests947x670.jpg" crc="373284469" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706228.jpg" crc="3957626729" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u700999.jpg" crc="19265335" ref="hands-free-dog-lead"/>
+    <file name="insights758x648.jpg" crc="12820006" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach758x536.jpg" crc="4030168187" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching758x536.jpg" crc="513225227" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u706129.jpg" crc="3824077485" ref="hands-free-dog-lead"/>
+    <file name="tests758x536.jpg" crc="4130151360" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u706229.jpg" crc="58269664" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u7009910.jpg" crc="372412003" ref="hands-free-dog-lead"/>
+    <file name="insights568x486.jpg" crc="4035126603" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach568x402.jpg" crc="131176973" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching568x402.jpg" crc="155106970" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u7061210.jpg" crc="77709823" ref="hands-free-dog-lead"/>
+    <file name="tests568x402.jpg" crc="4173099180" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u7062210.jpg" crc="138538931" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u7009911.jpg" crc="4244240929" ref="hands-free-dog-lead"/>
+    <file name="insights525x449.jpg" crc="366541477" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach525x371.jpg" crc="362752902" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching525x371.jpg" crc="521942406" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u7061211.jpg" crc="193349644" ref="hands-free-dog-lead"/>
+    <file name="tests525x371.jpg" crc="452228285" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u7062211.jpg" crc="4268502776" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u7009912.jpg" crc="3929377767" ref="hands-free-dog-lead"/>
+    <file name="insights407x348.jpg" crc="159902426" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach407x288.jpg" crc="415300149" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching407x288.jpg" crc="3828898000" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u7061212.jpg" crc="297886351" ref="hands-free-dog-lead"/>
+    <file name="tests407x288.jpg" crc="149279976" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u7062212.jpg" crc="4271959388" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u7009913.jpg" crc="3933621065" ref="hands-free-dog-lead"/>
+    <file name="insights350x299.jpg" crc="3962564291" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach350x247.jpg" crc="518135773" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching350x247.jpg" crc="255411352" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u7061213.jpg" crc="331504561" ref="hands-free-dog-lead"/>
+    <file name="tests350x247.jpg" crc="3788482536" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u7062213.jpg" crc="3909934385" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u7009914.jpg" crc="4175246027" ref="hands-free-dog-lead"/>
+    <file name="insights327x279.jpg" crc="512948257" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach327x231.jpg" crc="346486533" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching327x231.jpg" crc="4230653587" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u7061214.jpg" crc="4174479774" ref="hands-free-dog-lead"/>
+    <file name="tests327x231.jpg" crc="19124157" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u7062214.jpg" crc="3865728207" ref="hands-free-dog-lead"/>
+    <file name="opening-crop-u7009915.jpg" crc="3910300925" ref="hands-free-dog-lead"/>
+    <file name="insights290x248.jpg" crc="4162331493" seo="true" ref="hands-free-dog-lead"/>
+    <file name="biomimetic approach290x205.jpg" crc="4286327895" seo="true" ref="hands-free-dog-lead"/>
+    <file name="sketching290x205.jpg" crc="432134698" seo="true" ref="hands-free-dog-lead"/>
+    <file name="mechanism-crop-u7061215.jpg" crc="3954964833" ref="hands-free-dog-lead"/>
+    <file name="tests290x205.jpg" crc="432777366" seo="true" ref="hands-free-dog-lead"/>
+    <file name="final-crop-u7062215.jpg" crc="3893333068" ref="hands-free-dog-lead"/>
+    <file name="poster.jpg" crc="4162995927" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious.jpg" crc="357961923" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u74184.jpg" crc="4207817483" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u74194.jpg" crc="3873249352" ref="red-cross-emergency-drone"/>
+    <file name="delivery.jpg" crc="413239163" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741842.jpg" crc="3769528800" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741942.jpg" crc="96354538" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741843.jpg" crc="3868830083" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741943.jpg" crc="4237393868" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741844.jpg" crc="4033569584" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741944.jpg" crc="205693216" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741845.jpg" crc="299120642" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741945.jpg" crc="4171306060" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741846.jpg" crc="3929340929" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741946.jpg" crc="421307310" ref="red-cross-emergency-drone"/>
+    <file name="poster1011x781.jpg" crc="4213422812" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious1011x792.jpg" crc="290572698" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741847.jpg" crc="11884554" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741947.jpg" crc="4253384424" ref="red-cross-emergency-drone"/>
+    <file name="delivery1011x781.jpg" crc="4133957955" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster947x732.jpg" crc="267904405" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious947x742.jpg" crc="3786412748" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741848.jpg" crc="100266785" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741948.jpg" crc="281802176" ref="red-cross-emergency-drone"/>
+    <file name="delivery947x732.jpg" crc="296543414" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster758x586.jpg" crc="239745388" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious758x594.jpg" crc="3903914138" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u741849.jpg" crc="347426465" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u741949.jpg" crc="423835913" ref="red-cross-emergency-drone"/>
+    <file name="delivery758x586.jpg" crc="35956078" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster606x469.jpg" crc="233237473" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious606x475.jpg" crc="3786597402" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u7418410.jpg" crc="438415130" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u7419410.jpg" crc="4291427029" ref="red-cross-emergency-drone"/>
+    <file name="delivery606x469.jpg" crc="471281266" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster536x414.jpg" crc="79025610" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious536x420.jpg" crc="508541648" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u7418411.jpg" crc="3801426146" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u7419411.jpg" crc="6938493" ref="red-cross-emergency-drone"/>
+    <file name="delivery536x414.jpg" crc="295902103" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster423x327.jpg" crc="4118184630" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious423x331.jpg" crc="4112475157" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u7418412.jpg" crc="4280024531" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u7419412.jpg" crc="464549811" ref="red-cross-emergency-drone"/>
+    <file name="delivery423x327.jpg" crc="3917161701" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster358x277.jpg" crc="3763849006" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious358x281.jpg" crc="4237491119" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u7418413.jpg" crc="391445700" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u7419413.jpg" crc="151674533" ref="red-cross-emergency-drone"/>
+    <file name="delivery358x277.jpg" crc="3879803239" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster312x241.jpg" crc="532606325" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious312x244.jpg" crc="4197967470" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u7418414.jpg" crc="4202362976" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u7419414.jpg" crc="234217299" ref="red-cross-emergency-drone"/>
+    <file name="delivery312x241.jpg" crc="173060563" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="poster277x214.jpg" crc="4069765362" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="senarious277x217.jpg" crc="459547277" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="sketch-crop-u7418415.jpg" crc="3812435391" ref="red-cross-emergency-drone"/>
+    <file name="3d-crop-u7419415.jpg" crc="4072797649" ref="red-cross-emergency-drone"/>
+    <file name="delivery277x214.jpg" crc="3809077279" seo="true" ref="red-cross-emergency-drone"/>
+    <file name="begining.jpg" crc="4288151022" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u77904.jpg" crc="4152031626" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u113833.jpg" crc="4111582394" ref="the-braille-watch"/>
+    <file name="ideation-crop-u77914.jpg" crc="4193959017" ref="the-braille-watch"/>
+    <file name="the braille watch.jpg" crc="533189156" seo="true" ref="the-braille-watch"/>
+    <file name="10.jpg" crc="4179117333" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u77954.jpg" crc="51915878" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779042.jpg" crc="237316013" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138332.jpg" crc="4077019141" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779142.jpg" crc="4181463572" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779542.jpg" crc="4006590411" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779043.jpg" crc="4071165566" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138333.jpg" crc="4198142948" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779143.jpg" crc="422403987" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779543.jpg" crc="440962470" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779044.jpg" crc="4005846019" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138334.jpg" crc="4197184541" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779144.jpg" crc="4017162465" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779544.jpg" crc="22102351" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779045.jpg" crc="3998537303" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138335.jpg" crc="4078943702" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779145.jpg" crc="4012034460" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779545.jpg" crc="460932338" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779046.jpg" crc="106707107" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138336.jpg" crc="4101028316" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779146.jpg" crc="126637319" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779546.jpg" crc="49524625" ref="the-braille-watch"/>
+    <file name="begining1011x781.jpg" crc="4013995658" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779047.jpg" crc="4226901818" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138337.jpg" crc="416722886" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779147.jpg" crc="3774672737" ref="the-braille-watch"/>
+    <file name="the braille watch1011x715.jpg" crc="4235648820" seo="true" ref="the-braille-watch"/>
+    <file name="101011x715.jpg" crc="3837952918" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779547.jpg" crc="3965449876" ref="the-braille-watch"/>
+    <file name="begining947x732.jpg" crc="3794164608" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779048.jpg" crc="3793133329" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138338.jpg" crc="4261111093" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779148.jpg" crc="3795202348" ref="the-braille-watch"/>
+    <file name="the braille watch947x670.jpg" crc="57453562" seo="true" ref="the-braille-watch"/>
+    <file name="10947x670.jpg" crc="3891659220" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779548.jpg" crc="6661586" ref="the-braille-watch"/>
+    <file name="begining758x586.jpg" crc="283037302" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u779049.jpg" crc="4070919316" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u1138339.jpg" crc="3760014433" ref="the-braille-watch"/>
+    <file name="ideation-crop-u779149.jpg" crc="422140452" ref="the-braille-watch"/>
+    <file name="the braille watch758x536.jpg" crc="252872719" seo="true" ref="the-braille-watch"/>
+    <file name="10758x536.jpg" crc="200485116" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u779549.jpg" crc="173012873" ref="the-braille-watch"/>
+    <file name="begining668x517.jpg" crc="3843204434" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u7790410.jpg" crc="4257840740" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u11383310.jpg" crc="4039815937" ref="the-braille-watch"/>
+    <file name="ideation-crop-u7791410.jpg" crc="319696997" ref="the-braille-watch"/>
+    <file name="the braille watch668x473.jpg" crc="3830178926" seo="true" ref="the-braille-watch"/>
+    <file name="10668x473.jpg" crc="4200285394" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u7795410.jpg" crc="4169095524" ref="the-braille-watch"/>
+    <file name="begining581x449.jpg" crc="4169557724" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u7790411.jpg" crc="4262191245" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u11383311.jpg" crc="172159551" ref="the-braille-watch"/>
+    <file name="ideation-crop-u7791411.jpg" crc="4135987957" ref="the-braille-watch"/>
+    <file name="the braille watch581x411.jpg" crc="461595270" seo="true" ref="the-braille-watch"/>
+    <file name="10581x411.jpg" crc="3879537440" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u7795411.jpg" crc="389784749" ref="the-braille-watch"/>
+    <file name="begining427x330.jpg" crc="51325741" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u7790412.jpg" crc="3785798232" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u11383312.jpg" crc="32322026" ref="the-braille-watch"/>
+    <file name="ideation-crop-u7791412.jpg" crc="479558633" ref="the-braille-watch"/>
+    <file name="the braille watch427x302.jpg" crc="15461771" seo="true" ref="the-braille-watch"/>
+    <file name="10427x302.jpg" crc="4171141000" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u7795412.jpg" crc="4256891809" ref="the-braille-watch"/>
+    <file name="begining361x279.jpg" crc="309765880" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u7790413.jpg" crc="4003577546" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u11383313.jpg" crc="88651894" ref="the-braille-watch"/>
+    <file name="ideation-crop-u7791413.jpg" crc="3974378434" ref="the-braille-watch"/>
+    <file name="the braille watch361x255.jpg" crc="243068215" seo="true" ref="the-braille-watch"/>
+    <file name="10361x255.jpg" crc="269711475" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u7795413.jpg" crc="4242329022" ref="the-braille-watch"/>
+    <file name="begining314x242.jpg" crc="339045156" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u7790414.jpg" crc="325457990" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u11383314.jpg" crc="3917192576" ref="the-braille-watch"/>
+    <file name="ideation-crop-u7791414.jpg" crc="472076933" ref="the-braille-watch"/>
+    <file name="the braille watch314x222.jpg" crc="4069257038" seo="true" ref="the-braille-watch"/>
+    <file name="10314x222.jpg" crc="4136539822" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u7795414.jpg" crc="512846693" ref="the-braille-watch"/>
+    <file name="begining279x216.jpg" crc="183748441" seo="true" ref="the-braille-watch"/>
+    <file name="inspiration-crop-u7790415.jpg" crc="4254661549" ref="the-braille-watch"/>
+    <file name="inspiration 2-crop-u11383315.jpg" crc="4034623886" ref="the-braille-watch"/>
+    <file name="ideation-crop-u7791415.jpg" crc="4169705327" ref="the-braille-watch"/>
+    <file name="the braille watch279x197.jpg" crc="4264868926" seo="true" ref="the-braille-watch"/>
+    <file name="10279x197.jpg" crc="510611811" seo="true" ref="the-braille-watch"/>
+    <file name="buttons-crop-u7795415.jpg" crc="3926058467" ref="the-braille-watch"/>
+    <file name="1-u77544.png" crc="4172756123" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775442.png" crc="3788414232" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775443.png" crc="4104374410" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775444.png" crc="306821671" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775445.png" crc="47994626" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775446.png" crc="4209637355" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775447.png" crc="3996483388" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775448.png" crc="294158337" ref="morphy-richards-steam-iron"/>
+    <file name="1-u775449.png" crc="119414170" ref="morphy-richards-steam-iron"/>
+    <file name="1-u7754410.png" crc="278224756" ref="morphy-richards-steam-iron"/>
+    <file name="1-u7754411.png" crc="451277422" ref="morphy-richards-steam-iron"/>
+    <file name="1-u7754412.png" crc="4152010648" ref="morphy-richards-steam-iron"/>
+    <file name="1-u7754413.png" crc="240431004" ref="morphy-richards-steam-iron"/>
+    <file name="1-u7754414.png" crc="3990622462" ref="morphy-richards-steam-iron"/>
+    <file name="1-u7754415.png" crc="4040557141" ref="morphy-richards-steam-iron"/>
+    <file name="first-crop-u104758.jpg" crc="353422251" ref="ikea-modular-light"/>
+    <file name="untitled-2-001.jpg" crc="3956055298" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u104768.jpg" crc="3995346199" ref="ikea-modular-light"/>
+    <file name="9.jpg" crc="400257918" seo="true" ref="ikea-modular-light"/>
+    <file name="6.jpg" crc="299804647" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u104778.jpg" crc="3928339258" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047582.jpg" crc="3912240468" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047682.jpg" crc="3964172160" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047782.jpg" crc="24549463" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047583.jpg" crc="425930800" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047683.jpg" crc="254328517" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047783.jpg" crc="483382261" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047584.jpg" crc="3978219852" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047684.jpg" crc="118887110" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047784.jpg" crc="3944459568" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047585.jpg" crc="316108420" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047685.jpg" crc="4056356442" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047785.jpg" crc="45965486" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047586.jpg" crc="3988863430" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047686.jpg" crc="287224391" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047786.jpg" crc="4234649270" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047587.jpg" crc="4210083360" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047687.jpg" crc="96654252" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047787.jpg" crc="132864417" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047588.jpg" crc="395364281" ref="ikea-modular-light"/>
+    <file name="untitled-2-001947x246.jpg" crc="4166197863" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047688.jpg" crc="3861142643" ref="ikea-modular-light"/>
+    <file name="9948x368.jpg" crc="268961391" seo="true" ref="ikea-modular-light"/>
+    <file name="6948x363.jpg" crc="281691373" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047788.jpg" crc="3886920027" ref="ikea-modular-light"/>
+    <file name="first-crop-u1047589.jpg" crc="75925865" ref="ikea-modular-light"/>
+    <file name="untitled-2-001758x197.jpg" crc="4289189672" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u1047689.jpg" crc="3985506987" ref="ikea-modular-light"/>
+    <file name="9758x294.jpg" crc="4098678758" seo="true" ref="ikea-modular-light"/>
+    <file name="6758x291.jpg" crc="3998439176" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u1047789.jpg" crc="3823754305" ref="ikea-modular-light"/>
+    <file name="first-crop-u10475810.jpg" crc="80289213" ref="ikea-modular-light"/>
+    <file name="untitled-2-001659x171.jpg" crc="3996132442" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u10476810.jpg" crc="246625854" ref="ikea-modular-light"/>
+    <file name="9659x256.jpg" crc="3810804579" seo="true" ref="ikea-modular-light"/>
+    <file name="6659x253.jpg" crc="3796233096" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u10477810.jpg" crc="98894854" ref="ikea-modular-light"/>
+    <file name="first-crop-u10475811.jpg" crc="75873875" ref="ikea-modular-light"/>
+    <file name="untitled-2-001576x150.jpg" crc="225383063" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u10476811.jpg" crc="4135270749" ref="ikea-modular-light"/>
+    <file name="9576x224.jpg" crc="225253485" seo="true" ref="ikea-modular-light"/>
+    <file name="6576x221.jpg" crc="31739455" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u10477811.jpg" crc="4259999285" ref="ikea-modular-light"/>
+    <file name="first-crop-u10475812.jpg" crc="39676798" ref="ikea-modular-light"/>
+    <file name="untitled-2-001431x112.jpg" crc="107897680" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u10476812.jpg" crc="403023985" ref="ikea-modular-light"/>
+    <file name="9431x167.jpg" crc="438904355" seo="true" ref="ikea-modular-light"/>
+    <file name="6431x165.jpg" crc="199217727" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u10477812.jpg" crc="4021507465" ref="ikea-modular-light"/>
+    <file name="first-crop-u10475813.jpg" crc="158378560" ref="ikea-modular-light"/>
+    <file name="untitled-2-001360x94.jpg" crc="4062653043" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u10476813.jpg" crc="196313951" ref="ikea-modular-light"/>
+    <file name="9360x140.jpg" crc="170075407" seo="true" ref="ikea-modular-light"/>
+    <file name="6360x138.jpg" crc="4030457709" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u10477813.jpg" crc="362044272" ref="ikea-modular-light"/>
+    <file name="first-crop-u10475814.jpg" crc="491088633" ref="ikea-modular-light"/>
+    <file name="untitled-2-001267x70.jpg" crc="3887022585" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u10476814.jpg" crc="19756877" ref="ikea-modular-light"/>
+    <file name="9267x104.jpg" crc="79109236" seo="true" ref="ikea-modular-light"/>
+    <file name="6267x103.jpg" crc="3950773628" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u10477814.jpg" crc="3946562898" ref="ikea-modular-light"/>
+    <file name="first-crop-u10475815.jpg" crc="3980870413" ref="ikea-modular-light"/>
+    <file name="untitled-2-001237x62.jpg" crc="4092847248" seo="true" ref="ikea-modular-light"/>
+    <file name="text 2-crop-u10476815.jpg" crc="4027887435" ref="ikea-modular-light"/>
+    <file name="9237x92.jpg" crc="3947248266" seo="true" ref="ikea-modular-light"/>
+    <file name="6237x91.jpg" crc="320357417" seo="true" ref="ikea-modular-light"/>
+    <file name="closing-crop-u10477815.jpg" crc="178513136" ref="ikea-modular-light"/>
+  </folder>
+  <file name="index.html" crc="4128481035" seo="true" mt="1604631180340" redirect="true"/>
+  <file name="squareone.html" crc="492614247" seo="true" mt="1604452493022" redirect="true"/>
+  <file name="astro-lighting.html" crc="377575125" seo="true" mt="1604452493022" redirect="true"/>
+  <file name="hands-free-dog-lead.html" crc="173353613" seo="true" mt="1604454126258" redirect="true"/>
+  <file name="red-cross-emergency-drone.html" crc="267306812" seo="true" mt="1604457891152" redirect="true"/>
+  <file name="the-braille-watch.html" crc="4248577598" seo="true" mt="1604623582935" redirect="true"/>
+  <file name="morphy-richards-steam-iron.html" crc="3928925873" seo="true" mt="1604595457458" redirect="true"/>
+  <file name="ikea-modular-light.html" crc="367899304" seo="true" mt="1604543106512" redirect="true"/>
+  <file name="bosch-youseries---digital-solutions.html" crc="3875227058" seo="true" mt="1604624727145" redirect="true"/>
+  <file name="bosch-youseries.html" crc="3977238769" seo="true" mt="1604625445657" redirect="true"/>
+</manifest>
