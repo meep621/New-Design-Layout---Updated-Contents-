@@ -1,28 +1,34 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://alexanderminkov.com" resolutions="1x" timestamp="1604632568165">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://alexanderminkov.com" resolutions="1x" timestamp="1614129377347">
   <folder name="css">
     <file name="site_global.css" crc="4168310036"/>
-    <file name="master_a-master.css" crc="4184551188" ref="bosch-youseries:astro-lighting:red-cross-emergency-drone:squareone:index:ikea-modular-light:hands-free-dog-lead:the-braille-watch:morphy-richards-steam-iron:bosch-youseries---digital-solutions"/>
-    <file name="nomq_preview_master_a-master.css" crc="296535094" ref="bosch-youseries:astro-lighting:red-cross-emergency-drone:squareone:index:ikea-modular-light:hands-free-dog-lead:the-braille-watch:morphy-richards-steam-iron:bosch-youseries---digital-solutions"/>
-    <file name="bosch-youseries.css" crc="4058782653" ref="bosch-youseries"/>
-    <file name="nomq_bosch-youseries.css" crc="3968683003" ref="bosch-youseries"/>
-    <file name="astro-lighting.css" crc="3882933106" ref="astro-lighting"/>
-    <file name="nomq_astro-lighting.css" crc="329804729" ref="astro-lighting"/>
-    <file name="red-cross-emergency-drone.css" crc="528636670" ref="red-cross-emergency-drone"/>
-    <file name="nomq_red-cross-emergency-drone.css" crc="377102987" ref="red-cross-emergency-drone"/>
-    <file name="squareone.css" crc="3915124737" ref="squareone"/>
-    <file name="nomq_squareone.css" crc="128786704" ref="squareone"/>
-    <file name="index.css" crc="3853846532" ref="index"/>
-    <file name="nomq_index.css" crc="3776767590" ref="index"/>
-    <file name="ikea-modular-light.css" crc="3910032398" ref="ikea-modular-light"/>
-    <file name="nomq_ikea-modular-light.css" crc="154369836" ref="ikea-modular-light"/>
-    <file name="hands-free-dog-lead.css" crc="266542790" ref="hands-free-dog-lead"/>
-    <file name="nomq_hands-free-dog-lead.css" crc="4259831243" ref="hands-free-dog-lead"/>
-    <file name="the-braille-watch.css" crc="4147443761" ref="the-braille-watch"/>
+    <file name="master_a-master.css" crc="311085264" ref="index:squareone-app:red-cross-emergency-drone:sheffield-urban-mobility:the-braille-watch:mobile-website-redesign:morphy-richards-steam-iron:ikea-modular-light:squareone:bosch-youseries---digital-solutions:astro-lighting:bosch-youseries:hands-free-dog-lead"/>
+    <file name="nomq_preview_master_a-master.css" crc="4241557537" ref="index:squareone-app:red-cross-emergency-drone:sheffield-urban-mobility:the-braille-watch:mobile-website-redesign:morphy-richards-steam-iron:ikea-modular-light:squareone:bosch-youseries---digital-solutions:astro-lighting:bosch-youseries:hands-free-dog-lead"/>
+    <file name="index.css" crc="3772609337" ref="index"/>
+    <file name="nomq_index.css" crc="4092646619" ref="index"/>
+    <file name="squareone-app.css" crc="316978565" ref="squareone-app"/>
+    <file name="nomq_squareone-app.css" crc="64101680" ref="squareone-app"/>
+    <file name="red-cross-emergency-drone.css" crc="301988902" ref="red-cross-emergency-drone"/>
+    <file name="nomq_red-cross-emergency-drone.css" crc="4262151417" ref="red-cross-emergency-drone"/>
+    <file name="sheffield-urban-mobility.css" crc="150548179" ref="sheffield-urban-mobility"/>
+    <file name="nomq_sheffield-urban-mobility.css" crc="3870041133" ref="sheffield-urban-mobility"/>
+    <file name="the-braille-watch.css" crc="4065708693" ref="the-braille-watch"/>
     <file name="nomq_the-braille-watch.css" crc="3863551139" ref="the-braille-watch"/>
-    <file name="morphy-richards-steam-iron.css" crc="358712436" ref="morphy-richards-steam-iron"/>
-    <file name="nomq_morphy-richards-steam-iron.css" crc="3761998604" ref="morphy-richards-steam-iron"/>
-    <file name="bosch-youseries---digital-solutions.css" crc="461443442" ref="bosch-youseries---digital-solutions"/>
-    <file name="nomq_bosch-youseries---digital-solutions.css" crc="465580625" ref="bosch-youseries---digital-solutions"/>
+    <file name="mobile-website-redesign.css" crc="3996603023" ref="mobile-website-redesign"/>
+    <file name="nomq_mobile-website-redesign.css" crc="3888253086" ref="mobile-website-redesign"/>
+    <file name="morphy-richards-steam-iron.css" crc="3890256232" ref="morphy-richards-steam-iron"/>
+    <file name="nomq_morphy-richards-steam-iron.css" crc="165223229" ref="morphy-richards-steam-iron"/>
+    <file name="ikea-modular-light.css" crc="3787021799" ref="ikea-modular-light"/>
+    <file name="nomq_ikea-modular-light.css" crc="3908188221" ref="ikea-modular-light"/>
+    <file name="squareone.css" crc="14496223" ref="squareone"/>
+    <file name="nomq_squareone.css" crc="173260491" ref="squareone"/>
+    <file name="bosch-youseries---digital-solutions.css" crc="3988906966" ref="bosch-youseries---digital-solutions"/>
+    <file name="nomq_bosch-youseries---digital-solutions.css" crc="38218181" ref="bosch-youseries---digital-solutions"/>
+    <file name="astro-lighting.css" crc="508080539" ref="astro-lighting"/>
+    <file name="nomq_astro-lighting.css" crc="4065132215" ref="astro-lighting"/>
+    <file name="bosch-youseries.css" crc="3802489510" ref="bosch-youseries"/>
+    <file name="nomq_bosch-youseries.css" crc="4002337399" ref="bosch-youseries"/>
+    <file name="hands-free-dog-lead.css" crc="355266877" ref="hands-free-dog-lead"/>
+    <file name="nomq_hands-free-dog-lead.css" crc="444368791" ref="hands-free-dog-lead"/>
   </folder>
   <folder name="assets">
     <file name="untitled-2.pdf" crc="459783574" seo="true" mt="1525749112000"/>
@@ -32,24 +38,28 @@
     <file name="aleksandar-minkov-professional-design-practice-2018.pdf" crc="4068278752" seo="true" mt="1604189888000"/>
     <file name="minkovaleksandar_advanced-design-principles_-ikea-project_2017-logbook.pdf" crc="4166024775" seo="true" mt="1514947910000"/>
     <file name="aleksandar-minkov-professional-design-practice-2018-morphy-ritchards.pdf" crc="225643807" seo="true" mt="1604190194000"/>
+    <file name="observations.pdf" crc="4103996395" seo="true" mt="1612836134000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="museutils.js" crc="3851988764" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="whatinput.js" crc="86476730" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="museconfig.js" crc="4242129463" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="jquery.watch.js" crc="3842844514" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="museutils.js" crc="3851988764" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="whatinput.js" crc="86476730" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
-    <file name="webpro.js" crc="4067903014" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="musewpdisclosure.js" crc="338211507" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="jquery.museresponsive.js" crc="516761069" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="require.js" crc="4108833657" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
-    <file name="pie.js" crc="3831537696" ref="squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:morphy-richards-steam-iron:ikea-modular-light"/>
+    <file name="webpro.js" crc="4067903014" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="require.js" crc="4108833657" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
+    <file name="pie.js" crc="3831537696" ref="squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:morphy-richards-steam-iron:ikea-modular-light:squareone-app:mobile-website-redesign"/>
   </folder>
   <folder name="images">
-    <file name="logo.svg" crc="3866719408" seo="true" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="logo.svg" crc="3866719408" seo="true" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
     <file name="logo_poster_.png" crc="386471533" ref="index"/>
     <file name="3-crop-u212.jpg" crc="4129900850" ref="index"/>
+    <file name="kitchen 2.jpg" crc="4171299562" ref="index"/>
+    <file name="thumbnail.jpg" crc="4175030886" ref="index"/>
+    <file name="thumbnail2.jpg" crc="4143633343" ref="index"/>
     <file name="348 blured psed.jpg" crc="8154943" ref="index"/>
     <file name="dscf2016.jpg" crc="522283575" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image.jpg" crc="99785389" ref="index"/>
@@ -65,6 +75,9 @@
     <file name="3-crop-u2124.jpg" crc="3847709452" ref="index"/>
     <file name="dscf2016-u686-fr.jpg" crc="360047558" ref="index"/>
     <file name="3-crop-u2125.jpg" crc="165569678" ref="index"/>
+    <file name="kitchen 2-u181525-fr.jpg" crc="285082939" ref="index"/>
+    <file name="thumbnail-u181140-fr.jpg" crc="307995229" ref="index"/>
+    <file name="thumbnail-u181601-fr.jpg" crc="145882054" ref="index"/>
     <file name="348 blured psed-u683-fr.jpg" crc="72388066" ref="index"/>
     <file name="dscf2016-u686-fr2.jpg" crc="374713622" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr.jpg" crc="454771242" ref="index"/>
@@ -81,6 +94,9 @@
     <file name="linkedin_logo_initials-u3055-fr2.png" crc="4153711136" ref="index"/>
     <file name="behance-2-logo-png-transparent-u2900-fr2.png" crc="4195034025" ref="index"/>
     <file name="3-crop-u2127.jpg" crc="232430024" ref="index"/>
+    <file name="kitchen 2-u181525-fr2.jpg" crc="381076370" ref="index"/>
+    <file name="thumbnail-u181140-fr2.jpg" crc="4285539417" ref="index"/>
+    <file name="thumbnail-u181601-fr2.jpg" crc="4074393053" ref="index"/>
     <file name="348 blured psed-u683-fr2.jpg" crc="92011463" ref="index"/>
     <file name="dscf2016-u686-fr4.jpg" crc="4220703733" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr2.jpg" crc="280122854" ref="index"/>
@@ -92,6 +108,9 @@
     <file name="linkedin_logo_initials-u3055-fr3.png" crc="3808934129" ref="index"/>
     <file name="behance-2-logo-png-transparent-u2900-fr3.png" crc="68762916" ref="index"/>
     <file name="3-crop-u2128.jpg" crc="439883579" ref="index"/>
+    <file name="kitchen 2-u181525-fr3.jpg" crc="440684953" ref="index"/>
+    <file name="thumbnail-u181140-fr3.jpg" crc="398291837" ref="index"/>
+    <file name="thumbnail-u181601-fr3.jpg" crc="30723353" ref="index"/>
     <file name="348 blured psed-u683-fr3.jpg" crc="4033321041" ref="index"/>
     <file name="dscf2016-u686-fr5.jpg" crc="230414370" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr3.jpg" crc="288362263" ref="index"/>
@@ -100,6 +119,9 @@
     <file name="12-u1222-fr3.jpg" crc="3768783027" ref="index"/>
     <file name="51-u1225-fr3.jpg" crc="3830439029" ref="index"/>
     <file name="3-crop-u2129.jpg" crc="4022659209" ref="index"/>
+    <file name="kitchen 2-u181525-fr4.jpg" crc="4285382053" ref="index"/>
+    <file name="thumbnail-u181140-fr4.jpg" crc="317472888" ref="index"/>
+    <file name="thumbnail-u181601-fr4.jpg" crc="4073593337" ref="index"/>
     <file name="348 blured psed-u683-fr4.jpg" crc="22442393" ref="index"/>
     <file name="dscf2016-u686-fr6.jpg" crc="4229470758" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr4.jpg" crc="397917807" ref="index"/>
@@ -111,6 +133,9 @@
     <file name="linkedin_logo_initials-u3055-fr4.png" crc="3874171974" ref="index"/>
     <file name="behance-2-logo-png-transparent-u2900-fr4.png" crc="305969775" ref="index"/>
     <file name="3-crop-u21210.jpg" crc="493965500" ref="index"/>
+    <file name="kitchen 2-u181525-fr5.jpg" crc="3832562330" ref="index"/>
+    <file name="thumbnail-u181140-fr5.jpg" crc="3994421400" ref="index"/>
+    <file name="thumbnail-u181601-fr5.jpg" crc="284950809" ref="index"/>
     <file name="348 blured psed-u683-fr5.jpg" crc="251082043" ref="index"/>
     <file name="dscf2016-u686-fr7.jpg" crc="3971243817" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr5.jpg" crc="3824786015" ref="index"/>
@@ -123,14 +148,20 @@
     <file name="close mobile nav icon.svg" crc="244514711" ref="index"/>
     <file name="close mobile nav icon_poster_u15167.png" crc="509439353" ref="index"/>
     <file name="3-u212.png" crc="4165189151" ref="index"/>
+    <file name="thumbnail-u181140-fr6.jpg" crc="447546966" ref="index"/>
+    <file name="thumbnail-u181601-fr6.jpg" crc="4063839815" ref="index"/>
+    <file name="kitchen 2-u181525-fr6.jpg" crc="328764625" ref="index"/>
     <file name="348 blured psed-u683-fr6.jpg" crc="3834076118" ref="index"/>
-    <file name="dscf2016-u686-fr8.jpg" crc="4202050263" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr6.jpg" crc="4034081335" ref="index"/>
+    <file name="dscf2016-u686-fr8.jpg" crc="4202050263" ref="index"/>
     <file name="1 croped-u5636-fr6.jpg" crc="4056851647" ref="index"/>
     <file name="poster v4-min - copy-u1231-fr6.jpg" crc="4092784914" ref="index"/>
     <file name="12-u1222-fr6.jpg" crc="4153273460" ref="index"/>
     <file name="51-u1225-fr6.jpg" crc="355216338" ref="index"/>
     <file name="3-u2122.png" crc="403419743" ref="index"/>
+    <file name="kitchen 2-u181525-fr7.jpg" crc="50115979" ref="index"/>
+    <file name="thumbnail-u181140-fr7.jpg" crc="369485115" ref="index"/>
+    <file name="thumbnail-u181601-fr7.jpg" crc="4228570439" ref="index"/>
     <file name="348 blured psed-u683-fr7.jpg" crc="536191275" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr7.jpg" crc="3854922702" ref="index"/>
     <file name="poster v4-min - copy-u1231-fr7.jpg" crc="453431506" ref="index"/>
@@ -138,31 +169,35 @@
     <file name="12-u1222-fr7.jpg" crc="486222651" ref="index"/>
     <file name="1 croped-u5636-fr7.jpg" crc="3893848872" ref="index"/>
     <file name="51-u1225-fr7.jpg" crc="366262618" ref="index"/>
-    <file name="pics-photos-instagram-logo-png-4-u2883-fr5.png" crc="3808270935" ref="index"/>
-    <file name="behance-2-logo-png-transparent-u2900-fr5.png" crc="4059429937" ref="index"/>
     <file name="3-u2123.png" crc="153702467" ref="index"/>
-    <file name="348 blured psed-u683-fr8.jpg" crc="4016458921" ref="index"/>
-    <file name="minkov,aleksandar_nd2020_image-u672-fr8.jpg" crc="525717737" ref="index"/>
-    <file name="poster v4-min - copy-u1231-fr8.jpg" crc="3904071240" ref="index"/>
-    <file name="dscf2016-u686-fr10.jpg" crc="8672293" ref="index"/>
-    <file name="12-u1222-fr8.jpg" crc="3966393624" ref="index"/>
-    <file name="1 croped-u5636-fr8.jpg" crc="4125655253" ref="index"/>
-    <file name="51-u1225-fr8.jpg" crc="2782613" ref="index"/>
-    <file name="pics-photos-instagram-logo-png-4-u2883-fr6.png" crc="4093291799" ref="index"/>
-    <file name="linkedin_logo_initials-u3055-fr5.png" crc="64452717" ref="index"/>
-    <file name="behance-2-logo-png-transparent-u2900-fr6.png" crc="157663615" ref="index"/>
+    <file name="thumbnail-u181140-fr8.jpg" crc="421457504" ref="index"/>
+    <file name="kitchen 2-u181525-fr8.jpg" crc="4015027257" ref="index"/>
+    <file name="thumbnail-u181601-fr8.jpg" crc="3980688419" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr8.jpg" crc="223269583" ref="index"/>
+    <file name="348 blured psed-u683-fr8.jpg" crc="4214894190" ref="index"/>
+    <file name="dscf2016-u686-fr10.jpg" crc="3984817992" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr8.jpg" crc="48492698" ref="index"/>
+    <file name="1 croped-u5636-fr8.jpg" crc="476077186" ref="index"/>
+    <file name="12-u1222-fr8.jpg" crc="4288759909" ref="index"/>
+    <file name="51-u1225-fr8.jpg" crc="348571412" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr5.png" crc="241636805" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr5.png" crc="4055323389" ref="index"/>
     <file name="3-u2124.png" crc="160775311" ref="index"/>
-    <file name="348 blured psed-u683-fr9.jpg" crc="3886919342" ref="index"/>
-    <file name="minkov,aleksandar_nd2020_image-u672-fr9.jpg" crc="359918736" ref="index"/>
-    <file name="poster v4-min - copy-u1231-fr9.jpg" crc="214139400" ref="index"/>
-    <file name="dscf2016-u686-fr11.jpg" crc="125220448" ref="index"/>
-    <file name="12-u1222-fr9.jpg" crc="4236264091" ref="index"/>
-    <file name="1 croped-u5636-fr9.jpg" crc="417967143" ref="index"/>
-    <file name="51-u1225-fr9.jpg" crc="3785070739" ref="index"/>
-    <file name="pics-photos-instagram-logo-png-4-u2883-fr7.png" crc="4078885760" ref="index"/>
-    <file name="linkedin_logo_initials-u3055-fr6.png" crc="206113963" ref="index"/>
-    <file name="behance-2-logo-png-transparent-u2900-fr7.png" crc="749404" ref="index"/>
+    <file name="thumbnail-u181140-fr9.jpg" crc="173072387" ref="index"/>
+    <file name="kitchen 2-u181525-fr9.jpg" crc="417071903" ref="index"/>
+    <file name="thumbnail-u181601-fr9.jpg" crc="145730509" ref="index"/>
+    <file name="minkov,aleksandar_nd2020_image-u672-fr9.jpg" crc="4070421254" ref="index"/>
+    <file name="348 blured psed-u683-fr9.jpg" crc="3895427231" ref="index"/>
+    <file name="dscf2016-u686-fr11.jpg" crc="4173837527" ref="index"/>
+    <file name="poster v4-min - copy-u1231-fr9.jpg" crc="318246894" ref="index"/>
+    <file name="1 croped-u5636-fr9.jpg" crc="398574652" ref="index"/>
+    <file name="12-u1222-fr9.jpg" crc="49737328" ref="index"/>
+    <file name="51-u1225-fr9.jpg" crc="4111495458" ref="index"/>
+    <file name="linkedin_logo_initials-u3055-fr6.png" crc="4036589563" ref="index"/>
     <file name="3-u2125.png" crc="445597210" ref="index"/>
+    <file name="thumbnail-u181140-fr10.jpg" crc="4130518568" ref="index"/>
+    <file name="kitchen 2-u181525-fr10.jpg" crc="424074663" ref="index"/>
+    <file name="thumbnail-u181601-fr10.jpg" crc="152479117" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr10.jpg" crc="222947791" ref="index"/>
     <file name="348 blured psed-u683-fr10.jpg" crc="3877975874" ref="index"/>
     <file name="dscf2016-u686-fr12.jpg" crc="289026437" ref="index"/>
@@ -170,10 +205,13 @@
     <file name="poster v4-min - copy-u1231-fr10.jpg" crc="4261922338" ref="index"/>
     <file name="12-u1222-fr10.jpg" crc="3998135078" ref="index"/>
     <file name="51-u1225-fr10.jpg" crc="72970133" ref="index"/>
-    <file name="pics-photos-instagram-logo-png-4-u2883-fr8.png" crc="4070019519" ref="index"/>
+    <file name="pics-photos-instagram-logo-png-4-u2883-fr6.png" crc="4070019519" ref="index"/>
     <file name="linkedin_logo_initials-u3055-fr7.png" crc="64338186" ref="index"/>
-    <file name="behance-2-logo-png-transparent-u2900-fr8.png" crc="3788716113" ref="index"/>
+    <file name="behance-2-logo-png-transparent-u2900-fr5.png" crc="3788716113" ref="index"/>
     <file name="3-u2126.png" crc="3942235006" ref="index"/>
+    <file name="thumbnail-u181140-fr11.jpg" crc="3982954832" ref="index"/>
+    <file name="kitchen 2-u181525-fr11.jpg" crc="167226206" ref="index"/>
+    <file name="thumbnail-u181601-fr11.jpg" crc="486491928" ref="index"/>
     <file name="minkov,aleksandar_nd2020_image-u672-fr11.jpg" crc="3824995128" ref="index"/>
     <file name="348 blured psed-u683-fr11.jpg" crc="448460574" ref="index"/>
     <file name="dscf2016-u686-fr13.jpg" crc="450195647" ref="index"/>
@@ -181,7 +219,7 @@
     <file name="poster v4-min - copy-u1231-fr11.jpg" crc="104312277" ref="index"/>
     <file name="12-u1222-fr11.jpg" crc="103477505" ref="index"/>
     <file name="51-u1225-fr11.jpg" crc="235229346" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries"/>
+    <file name="blank.gif" crc="4208392903" ref="index:squareone:astro-lighting:hands-free-dog-lead:red-cross-emergency-drone:the-braille-watch:morphy-richards-steam-iron:ikea-modular-light:bosch-youseries---digital-solutions:bosch-youseries:squareone-app:sheffield-urban-mobility:mobile-website-redesign"/>
     <file name="main-crop-u59968.jpg" crc="4130337384" ref="squareone"/>
     <file name="insights-crop-u59948.jpg" crc="261141177" ref="squareone"/>
     <file name="second-crop-u55538.jpg" crc="289056531" ref="squareone"/>
@@ -800,15 +838,499 @@
     <file name="9237x92.jpg" crc="3947248266" seo="true" ref="ikea-modular-light"/>
     <file name="6237x91.jpg" crc="320357417" seo="true" ref="ikea-modular-light"/>
     <file name="closing-crop-u10477815.jpg" crc="178513136" ref="ikea-modular-light"/>
+    <file name="overview-crop-u197077.jpg" crc="347335712" ref="squareone-app"/>
+    <file name="purpose-crop-u209370.jpg" crc="130526300" ref="squareone-app"/>
+    <file name="finding.jpg" crc="4220805439" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u197097.jpg" crc="3912181556" ref="squareone-app"/>
+    <file name="user profile 2.jpg" crc="3979653461" seo="true" ref="squareone-app"/>
+    <file name="flowchart.jpg" crc="3972415093" seo="true" ref="squareone-app"/>
+    <file name="low fidality long.jpg" crc="16997481" seo="true" ref="squareone-app"/>
+    <file name="high fid.jpg" crc="193541911" seo="true" ref="squareone-app"/>
+    <file name="justification.jpg" crc="3975766982" seo="true" ref="squareone-app"/>
+    <file name="condition page.jpg" crc="359399206" seo="true" ref="squareone-app"/>
+    <file name="scan.jpg" crc="4225291000" seo="true" ref="squareone-app"/>
+    <file name="shop.jpg" crc="348293017" seo="true" ref="squareone-app"/>
+    <file name="reminders.jpg" crc="202482685" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u133314.jpg" crc="347326869" ref="squareone-app"/>
+    <file name="conclusion-crop-u209430.jpg" crc="210497675" ref="squareone-app"/>
+    <file name="overview-crop-u1970772.jpg" crc="221978215" ref="squareone-app"/>
+    <file name="purpose-crop-u2093702.jpg" crc="3913999741" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970972.jpg" crc="401036271" ref="squareone-app"/>
+    <file name="isometric-crop-u1333142.jpg" crc="3809398902" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094302.jpg" crc="4078489486" ref="squareone-app"/>
+    <file name="overview-crop-u1970773.jpg" crc="3856186196" ref="squareone-app"/>
+    <file name="purpose-crop-u2093703.jpg" crc="246935997" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970973.jpg" crc="135231861" ref="squareone-app"/>
+    <file name="isometric-crop-u1333143.jpg" crc="120323788" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094303.jpg" crc="4223470497" ref="squareone-app"/>
+    <file name="overview-crop-u1970774.jpg" crc="3961700256" ref="squareone-app"/>
+    <file name="purpose-crop-u2093704.jpg" crc="134959720" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970974.jpg" crc="253800409" ref="squareone-app"/>
+    <file name="isometric-crop-u1333144.jpg" crc="285231591" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094304.jpg" crc="62789898" ref="squareone-app"/>
+    <file name="overview-crop-u1970775.jpg" crc="4273195576" ref="squareone-app"/>
+    <file name="purpose-crop-u2093705.jpg" crc="4052236044" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970975.jpg" crc="4043808321" ref="squareone-app"/>
+    <file name="isometric-crop-u1333145.jpg" crc="3801257300" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094305.jpg" crc="64193354" ref="squareone-app"/>
+    <file name="overview-crop-u1970776.jpg" crc="3863608529" ref="squareone-app"/>
+    <file name="purpose-crop-u2093706.jpg" crc="3915290801" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970976.jpg" crc="3911910500" ref="squareone-app"/>
+    <file name="isometric-crop-u1333146.jpg" crc="154581983" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094306.jpg" crc="4139844816" ref="squareone-app"/>
+    <file name="overview-crop-u1970777.jpg" crc="477715712" ref="squareone-app"/>
+    <file name="purpose-crop-u2093707.jpg" crc="4135201951" ref="squareone-app"/>
+    <file name="finding1011x715.jpg" crc="4182499995" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970977.jpg" crc="4033774762" ref="squareone-app"/>
+    <file name="user profile 21011x1049.jpg" crc="52730854" seo="true" ref="squareone-app"/>
+    <file name="flowchart1011x919.jpg" crc="4066770140" seo="true" ref="squareone-app"/>
+    <file name="low fidality long1011x1157.jpg" crc="141390584" seo="true" ref="squareone-app"/>
+    <file name="high fid1011x884.jpg" crc="3893663009" seo="true" ref="squareone-app"/>
+    <file name="justification1011x1123.jpg" crc="116857311" seo="true" ref="squareone-app"/>
+    <file name="condition page1011x613.jpg" crc="4036882119" seo="true" ref="squareone-app"/>
+    <file name="scan1011x715.jpg" crc="3925479067" seo="true" ref="squareone-app"/>
+    <file name="shop1011x1157.jpg" crc="200963709" seo="true" ref="squareone-app"/>
+    <file name="reminders1011x715.jpg" crc="3881107036" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u1333147.jpg" crc="3865051296" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094307.jpg" crc="181473440" ref="squareone-app"/>
+    <file name="overview-crop-u1970778.jpg" crc="4117512412" ref="squareone-app"/>
+    <file name="purpose-crop-u2093708.jpg" crc="213200263" ref="squareone-app"/>
+    <file name="finding947x670.jpg" crc="4224885682" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970978.jpg" crc="3921399477" ref="squareone-app"/>
+    <file name="user profile 2947x983.jpg" crc="4083390704" seo="true" ref="squareone-app"/>
+    <file name="flowchart947x861.jpg" crc="510697916" seo="true" ref="squareone-app"/>
+    <file name="low fidality long947x1084.jpg" crc="3812169856" seo="true" ref="squareone-app"/>
+    <file name="high fid947x829.jpg" crc="4032293635" seo="true" ref="squareone-app"/>
+    <file name="justification947x1052.jpg" crc="464654062" seo="true" ref="squareone-app"/>
+    <file name="condition page947x574.jpg" crc="4146445567" seo="true" ref="squareone-app"/>
+    <file name="scan947x670.jpg" crc="205414300" seo="true" ref="squareone-app"/>
+    <file name="shop947x1084.jpg" crc="4116444161" seo="true" ref="squareone-app"/>
+    <file name="reminders948x670.jpg" crc="284332685" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u1333148.jpg" crc="241280220" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094308.jpg" crc="1291785" ref="squareone-app"/>
+    <file name="overview-crop-u1970779.jpg" crc="269684739" ref="squareone-app"/>
+    <file name="purpose-crop-u2093709.jpg" crc="4047233530" ref="squareone-app"/>
+    <file name="finding758x536.jpg" crc="297031622" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u1970979.jpg" crc="277052382" ref="squareone-app"/>
+    <file name="user profile 2758x787.jpg" crc="4152599714" seo="true" ref="squareone-app"/>
+    <file name="flowchart758x689.jpg" crc="4079256444" seo="true" ref="squareone-app"/>
+    <file name="low fidality long758x867.jpg" crc="3951062725" seo="true" ref="squareone-app"/>
+    <file name="high fid758x663.jpg" crc="511961503" seo="true" ref="squareone-app"/>
+    <file name="justification758x842.jpg" crc="4026218368" seo="true" ref="squareone-app"/>
+    <file name="condition page758x459.jpg" crc="328962449" seo="true" ref="squareone-app"/>
+    <file name="scan758x536.jpg" crc="3921279815" seo="true" ref="squareone-app"/>
+    <file name="shop758x867.jpg" crc="4123783663" seo="true" ref="squareone-app"/>
+    <file name="reminders758x536.jpg" crc="3947805474" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u1333149.jpg" crc="240395057" ref="squareone-app"/>
+    <file name="conclusion-crop-u2094309.jpg" crc="474374137" ref="squareone-app"/>
+    <file name="overview-crop-u19707710.jpg" crc="4186079174" ref="squareone-app"/>
+    <file name="purpose-crop-u20937010.jpg" crc="407863340" ref="squareone-app"/>
+    <file name="finding646x457.jpg" crc="1338442" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u19709710.jpg" crc="3937528764" ref="squareone-app"/>
+    <file name="user profile 2646x671.jpg" crc="210872067" seo="true" ref="squareone-app"/>
+    <file name="flowchart646x587.jpg" crc="51731487" seo="true" ref="squareone-app"/>
+    <file name="low fidality long646x740.jpg" crc="3997540449" seo="true" ref="squareone-app"/>
+    <file name="high fid646x565.jpg" crc="4143778715" seo="true" ref="squareone-app"/>
+    <file name="justification646x718.jpg" crc="4290841437" seo="true" ref="squareone-app"/>
+    <file name="condition page646x392.jpg" crc="353346452" seo="true" ref="squareone-app"/>
+    <file name="scan646x457.jpg" crc="454353957" seo="true" ref="squareone-app"/>
+    <file name="shop646x740.jpg" crc="4208666912" seo="true" ref="squareone-app"/>
+    <file name="reminders647x457.jpg" crc="4081069417" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u13331410.jpg" crc="19067243" ref="squareone-app"/>
+    <file name="conclusion-crop-u20943010.jpg" crc="3932722762" ref="squareone-app"/>
+    <file name="overview-crop-u19707711.jpg" crc="65018785" ref="squareone-app"/>
+    <file name="purpose-crop-u20937011.jpg" crc="12400256" ref="squareone-app"/>
+    <file name="finding626x443.jpg" crc="82020427" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u19709711.jpg" crc="4269637148" ref="squareone-app"/>
+    <file name="user profile 2626x649.jpg" crc="3963386795" seo="true" ref="squareone-app"/>
+    <file name="flowchart626x569.jpg" crc="4175397777" seo="true" ref="squareone-app"/>
+    <file name="low fidality long626x716.jpg" crc="3841924150" seo="true" ref="squareone-app"/>
+    <file name="high fid626x548.jpg" crc="198648909" seo="true" ref="squareone-app"/>
+    <file name="justification626x695.jpg" crc="3909206406" seo="true" ref="squareone-app"/>
+    <file name="condition page626x379.jpg" crc="3928511633" seo="true" ref="squareone-app"/>
+    <file name="scan626x443.jpg" crc="3843777706" seo="true" ref="squareone-app"/>
+    <file name="shop626x716.jpg" crc="493064036" seo="true" ref="squareone-app"/>
+    <file name="reminders626x443.jpg" crc="231579041" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u13331411.jpg" crc="14609518" ref="squareone-app"/>
+    <file name="conclusion-crop-u20943011.jpg" crc="4265504149" ref="squareone-app"/>
+    <file name="overview-crop-u19707712.jpg" crc="4080793946" ref="squareone-app"/>
+    <file name="purpose-crop-u20937012.jpg" crc="3774317562" ref="squareone-app"/>
+    <file name="finding454x321.jpg" crc="359663916" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u19709712.jpg" crc="4140569770" ref="squareone-app"/>
+    <file name="user profile 2454x471.jpg" crc="263951960" seo="true" ref="squareone-app"/>
+    <file name="flowchart454x412.jpg" crc="200389591" seo="true" ref="squareone-app"/>
+    <file name="low fidality long454x520.jpg" crc="3859772553" seo="true" ref="squareone-app"/>
+    <file name="high fid454x397.jpg" crc="449377028" seo="true" ref="squareone-app"/>
+    <file name="justification454x504.jpg" crc="3861475465" seo="true" ref="squareone-app"/>
+    <file name="condition page454x275.jpg" crc="4197161708" seo="true" ref="squareone-app"/>
+    <file name="scan454x321.jpg" crc="66613919" seo="true" ref="squareone-app"/>
+    <file name="shop454x520.jpg" crc="324987470" seo="true" ref="squareone-app"/>
+    <file name="reminders454x321.jpg" crc="3810154581" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u13331412.jpg" crc="3942518334" ref="squareone-app"/>
+    <file name="conclusion-crop-u20943012.jpg" crc="4089129272" ref="squareone-app"/>
+    <file name="overview-crop-u19707713.jpg" crc="4221066089" ref="squareone-app"/>
+    <file name="purpose-crop-u20937013.jpg" crc="62630835" ref="squareone-app"/>
+    <file name="finding409x289.jpg" crc="3933196101" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u19709713.jpg" crc="168848913" ref="squareone-app"/>
+    <file name="user profile 2409x425.jpg" crc="4176609410" seo="true" ref="squareone-app"/>
+    <file name="flowchart409x372.jpg" crc="305083362" seo="true" ref="squareone-app"/>
+    <file name="low fidality long409x468.jpg" crc="205031687" seo="true" ref="squareone-app"/>
+    <file name="high fid409x358.jpg" crc="4286358769" seo="true" ref="squareone-app"/>
+    <file name="justification409x455.jpg" crc="4173013447" seo="true" ref="squareone-app"/>
+    <file name="condition page409x248.jpg" crc="101977026" seo="true" ref="squareone-app"/>
+    <file name="scan409x289.jpg" crc="524051816" seo="true" ref="squareone-app"/>
+    <file name="shop409x468.jpg" crc="252990239" seo="true" ref="squareone-app"/>
+    <file name="reminders409x290.jpg" crc="4071860429" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u13331413.jpg" crc="4129656459" ref="squareone-app"/>
+    <file name="conclusion-crop-u20943013.jpg" crc="37809382" ref="squareone-app"/>
+    <file name="overview-crop-u19707714.jpg" crc="3837787960" ref="squareone-app"/>
+    <file name="purpose-crop-u20937014.jpg" crc="3925297338" ref="squareone-app"/>
+    <file name="finding344x243.jpg" crc="4242871807" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u19709714.jpg" crc="4121969956" ref="squareone-app"/>
+    <file name="user profile 2344x357.jpg" crc="419850096" seo="true" ref="squareone-app"/>
+    <file name="flowchart344x313.jpg" crc="329441396" seo="true" ref="squareone-app"/>
+    <file name="low fidality long344x394.jpg" crc="3943308238" seo="true" ref="squareone-app"/>
+    <file name="high fid344x301.jpg" crc="461184983" seo="true" ref="squareone-app"/>
+    <file name="justification344x382.jpg" crc="55231450" seo="true" ref="squareone-app"/>
+    <file name="condition page344x209.jpg" crc="4212413926" seo="true" ref="squareone-app"/>
+    <file name="scan344x243.jpg" crc="4244122218" seo="true" ref="squareone-app"/>
+    <file name="shop344x394.jpg" crc="4272324048" seo="true" ref="squareone-app"/>
+    <file name="reminders344x244.jpg" crc="323455887" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u13331414.jpg" crc="344535397" ref="squareone-app"/>
+    <file name="conclusion-crop-u20943014.jpg" crc="3916084329" ref="squareone-app"/>
+    <file name="overview-crop-u19707715.jpg" crc="135414" ref="squareone-app"/>
+    <file name="purpose-crop-u20937015.jpg" crc="3833902418" ref="squareone-app"/>
+    <file name="finding306x216.jpg" crc="165244419" seo="true" ref="squareone-app"/>
+    <file name="problems - solutions-crop-u19709715.jpg" crc="293609872" ref="squareone-app"/>
+    <file name="user profile 2306x317.jpg" crc="3991328719" seo="true" ref="squareone-app"/>
+    <file name="flowchart306x278.jpg" crc="4165836856" seo="true" ref="squareone-app"/>
+    <file name="low fidality long306x350.jpg" crc="319524709" seo="true" ref="squareone-app"/>
+    <file name="high fid306x268.jpg" crc="391187079" seo="true" ref="squareone-app"/>
+    <file name="justification306x340.jpg" crc="158272839" seo="true" ref="squareone-app"/>
+    <file name="condition page306x186.jpg" crc="280740750" seo="true" ref="squareone-app"/>
+    <file name="scan306x216.jpg" crc="3917139964" seo="true" ref="squareone-app"/>
+    <file name="shop306x350.jpg" crc="4089548353" seo="true" ref="squareone-app"/>
+    <file name="reminders306x217.jpg" crc="3832863143" seo="true" ref="squareone-app"/>
+    <file name="isometric-crop-u13331415.jpg" crc="3875249149" ref="squareone-app"/>
+    <file name="conclusion-crop-u20943015.jpg" crc="283290524" ref="squareone-app"/>
+    <file name="opening.jpg" crc="3970693549" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives.jpg" crc="424086374" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions.jpg" crc="52360768" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis.jpg" crc="4169409949" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews.jpg" crc="4229495483" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board.jpg" crc="463899096" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow.jpg" crc="447082638" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching.jpg" crc="278852536" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality.jpg" crc="348718152" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u170730.jpg" crc="85445306" ref="sheffield-urban-mobility"/>
+    <file name="progresion.jpg" crc="3832850882" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design.jpg" crc="4214750561" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home.jpg" crc="4244148238" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path.jpg" crc="4289189690" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships.jpg" crc="4044747767" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u206275.jpg" crc="4185270875" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707302.jpg" crc="4217837886" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062752.jpg" crc="352661738" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707303.jpg" crc="3833337203" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062753.jpg" crc="139531587" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707304.jpg" crc="3842403227" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062754.jpg" crc="39904915" ref="sheffield-urban-mobility"/>
+    <file name="interviews1136x1531.jpg" crc="47898463" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707305.jpg" crc="4083558273" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships1136x1531.jpg" crc="77573867" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062755.jpg" crc="364586202" ref="sheffield-urban-mobility"/>
+    <file name="interviews1065x1435.jpg" crc="158239055" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707306.jpg" crc="4197284811" ref="sheffield-urban-mobility"/>
+    <file name="progresion1065x753.jpg" crc="63270302" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path1065x1794.jpg" crc="4046077821" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships1065x1435.jpg" crc="4186377183" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062756.jpg" crc="4231890913" ref="sheffield-urban-mobility"/>
+    <file name="opening1011x1008.jpg" crc="227718892" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives1011x715.jpg" crc="4136111398" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions1011x715.jpg" crc="4001296273" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis1011x970.jpg" crc="97653348" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews1011x1362.jpg" crc="4033599474" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board1011x936.jpg" crc="489031498" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow1011x936.jpg" crc="3790119821" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching1011x681.jpg" crc="3969667548" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality1011x715.jpg" crc="3772037678" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707307.jpg" crc="527216132" ref="sheffield-urban-mobility"/>
+    <file name="progresion1011x715.jpg" crc="3860820033" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design1011x953.jpg" crc="4073925344" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home1011x783.jpg" crc="506593529" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path1011x1702.jpg" crc="4163332477" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships1011x1362.jpg" crc="4171196970" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062757.jpg" crc="101505235" ref="sheffield-urban-mobility"/>
+    <file name="opening947x945.jpg" crc="3767482747" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives947x670.jpg" crc="216834726" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions947x670.jpg" crc="419963365" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis947x909.jpg" crc="326879560" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews947x1276.jpg" crc="45654810" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board947x877.jpg" crc="3903221006" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow947x877.jpg" crc="4143505914" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching947x638.jpg" crc="32585419" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality947x670.jpg" crc="4292626030" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707308.jpg" crc="4145078691" ref="sheffield-urban-mobility"/>
+    <file name="progresion947x670.jpg" crc="333014163" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design947x893.jpg" crc="4172235298" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home947x734.jpg" crc="3886263487" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path947x1595.jpg" crc="342147874" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships947x1276.jpg" crc="4059894559" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062758.jpg" crc="501180187" ref="sheffield-urban-mobility"/>
+    <file name="opening822x819.jpg" crc="4148676229" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives822x581.jpg" crc="444997193" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions822x581.jpg" crc="343738899" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis-u168196.png" crc="251975909" ref="sheffield-urban-mobility"/>
+    <file name="interviews822x1106.jpg" crc="4269401558" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board822x761.jpg" crc="4175086008" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow822x761.jpg" crc="4275493514" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching821x553.jpg" crc="4270568485" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality821x581.jpg" crc="232044749" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u1707309.jpg" crc="4110598592" ref="sheffield-urban-mobility"/>
+    <file name="progresion821x581.jpg" crc="4084398362" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design-u164944.png" crc="465180688" ref="sheffield-urban-mobility"/>
+    <file name="prototype home822x636.jpg" crc="4245040394" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path822x1383.jpg" crc="158629113" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships822x1106.jpg" crc="4111868974" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u2062759.jpg" crc="37269327" ref="sheffield-urban-mobility"/>
+    <file name="opening600x599.jpg" crc="96741958" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives600x425.jpg" crc="4102371414" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions600x425.jpg" crc="3808505347" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis600x576.jpg" crc="57141523" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews600x809.jpg" crc="4238938420" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board600x556.jpg" crc="130886709" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow600x556.jpg" crc="398900043" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching600x404.jpg" crc="4195144213" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality600x425.jpg" crc="24893268" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u17073010.jpg" crc="3855572258" ref="sheffield-urban-mobility"/>
+    <file name="progresion600x425.jpg" crc="4211145862" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design600x566.jpg" crc="4125350328" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home600x465.jpg" crc="334830656" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path600x1011.jpg" crc="421685825" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships600x809.jpg" crc="442904498" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u20627510.jpg" crc="3967362698" ref="sheffield-urban-mobility"/>
+    <file name="opening540x538.jpg" crc="3773391972" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives540x382.jpg" crc="398830518" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions540x382.jpg" crc="4085486164" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis540x518.jpg" crc="4185001505" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews540x727.jpg" crc="4215330449" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board540x500.jpg" crc="333446068" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow540x500.jpg" crc="507273638" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching540x364.jpg" crc="484634377" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality540x382.jpg" crc="4265609480" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u17073011.jpg" crc="68865601" ref="sheffield-urban-mobility"/>
+    <file name="progresion540x382.jpg" crc="269865779" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design540x509.jpg" crc="4259341809" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home540x418.jpg" crc="3783220187" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path540x909.jpg" crc="307672354" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships540x727.jpg" crc="4200785315" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u20627511.jpg" crc="4121367976" ref="sheffield-urban-mobility"/>
+    <file name="opening486x484.jpg" crc="4014314711" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives486x343.jpg" crc="389402837" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions486x343.jpg" crc="4045562983" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis486x466.jpg" crc="291882586" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews486x654.jpg" crc="4072885417" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board486x450.jpg" crc="528665428" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow486x450.jpg" crc="449914875" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching486x327.jpg" crc="4125643250" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality486x343.jpg" crc="4135387046" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u17073012.jpg" crc="3778306585" ref="sheffield-urban-mobility"/>
+    <file name="progresion486x343.jpg" crc="429780465" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design486x458.jpg" crc="4277736123" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home486x376.jpg" crc="493843986" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path486x817.jpg" crc="191696970" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships486x654.jpg" crc="3867032034" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u20627512.jpg" crc="3830856756" ref="sheffield-urban-mobility"/>
+    <file name="opening411x410.jpg" crc="274098382" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives411x291.jpg" crc="169010122" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions411x291.jpg" crc="4084052156" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis411x394.jpg" crc="3765579282" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews411x553.jpg" crc="376974128" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board411x381.jpg" crc="3946112517" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow411x381.jpg" crc="328774832" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching411x277.jpg" crc="3814275323" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality411x291.jpg" crc="3855630841" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u17073013.jpg" crc="3902620179" ref="sheffield-urban-mobility"/>
+    <file name="progresion411x291.jpg" crc="4033840238" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design411x387.jpg" crc="190736965" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home411x318.jpg" crc="4062878855" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path411x692.jpg" crc="245887133" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships411x553.jpg" crc="66029682" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u20627513.jpg" crc="478972468" ref="sheffield-urban-mobility"/>
+    <file name="opening360x360.jpg" crc="3933796242" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives360x255.jpg" crc="364880627" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions360x255.jpg" crc="3882602388" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis360x346.jpg" crc="354938591" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews360x485.jpg" crc="110982668" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board360x334.jpg" crc="437926598" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow360x334.jpg" crc="278671659" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching360x243.jpg" crc="3848657925" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality360x255.jpg" crc="235377065" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u17073014.jpg" crc="23792941" ref="sheffield-urban-mobility"/>
+    <file name="progresion360x255.jpg" crc="3837496148" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design360x340.jpg" crc="4246228093" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home360x279.jpg" crc="358345388" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path360x607.jpg" crc="4286045744" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships360x485.jpg" crc="428672019" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u20627514.jpg" crc="3890091516" ref="sheffield-urban-mobility"/>
+    <file name="opening320x320.jpg" crc="3984336927" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="objectives320x227.jpg" crc="4093900109" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="problems and solutions320x227.jpg" crc="54023838" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="competitive analysis320x307.jpg" crc="363742045" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="interviews320x432.jpg" crc="257383956" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="story board320x297.jpg" crc="3989427282" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="user flow320x297.jpg" crc="3846869587" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="hand sketching320x216.jpg" crc="4016497880" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="high-fidality320x227.jpg" crc="462133436" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="table-crop-u17073015.jpg" crc="493202740" ref="sheffield-urban-mobility"/>
+    <file name="progresion320x227.jpg" crc="390489517" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="final design320x302.jpg" crc="365719950" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype home320x248.jpg" crc="90932273" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype user path320x539.jpg" crc="246381303" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="prototype memberships320x432.jpg" crc="4218542969" seo="true" ref="sheffield-urban-mobility"/>
+    <file name="conclusion-crop-u20627515.jpg" crc="347424913" ref="sheffield-urban-mobility"/>
+    <file name="introdiction.jpg" crc="3913424696" seo="true" ref="mobile-website-redesign"/>
+    <file name="2.jpg" crc="501438660" seo="true" ref="mobile-website-redesign"/>
+    <file name="1.jpg" crc="481725971" seo="true" ref="mobile-website-redesign"/>
+    <file name="3.jpg" crc="4098124411" seo="true" ref="mobile-website-redesign"/>
+    <file name="4.jpg" crc="62889874" seo="true" ref="mobile-website-redesign"/>
+    <file name="5.jpg" crc="3944363011" seo="true" ref="mobile-website-redesign"/>
+    <file name="62.jpg" crc="327414707" seo="true" ref="mobile-website-redesign"/>
+    <file name="7.jpg" crc="4132906362" seo="true" ref="mobile-website-redesign"/>
+    <file name="85.jpg" crc="202195307" seo="true" ref="mobile-website-redesign"/>
+    <file name="92.jpg" crc="4003478276" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u217213.jpg" crc="4094717471" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u210288.jpg" crc="4230919927" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172132.jpg" crc="4200415097" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102882.jpg" crc="3917345897" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172133.jpg" crc="179466579" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102883.jpg" crc="3837694978" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172134.jpg" crc="514160750" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102884.jpg" crc="4263291711" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172135.jpg" crc="4230486954" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102885.jpg" crc="359162703" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172136.jpg" crc="328409979" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102886.jpg" crc="4148468579" ref="mobile-website-redesign"/>
+    <file name="introdiction1039x1609.jpg" crc="3769347081" seo="true" ref="mobile-website-redesign"/>
+    <file name="21039x734.jpg" crc="4291319508" seo="true" ref="mobile-website-redesign"/>
+    <file name="11039x734.jpg" crc="4250366061" seo="true" ref="mobile-website-redesign"/>
+    <file name="31039x734.jpg" crc="183132673" seo="true" ref="mobile-website-redesign"/>
+    <file name="41039x734.jpg" crc="268677761" seo="true" ref="mobile-website-redesign"/>
+    <file name="51039x734.jpg" crc="463237490" seo="true" ref="mobile-website-redesign"/>
+    <file name="61039x734.jpg" crc="127287502" seo="true" ref="mobile-website-redesign"/>
+    <file name="71039x734.jpg" crc="10654769" seo="true" ref="mobile-website-redesign"/>
+    <file name="851039x802.jpg" crc="3910877521" seo="true" ref="mobile-website-redesign"/>
+    <file name="91039x734.jpg" crc="176770003" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172137.jpg" crc="277188577" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102887.jpg" crc="456389832" ref="mobile-website-redesign"/>
+    <file name="introdiction947x1467.jpg" crc="4258409714" seo="true" ref="mobile-website-redesign"/>
+    <file name="2947x670.jpg" crc="301699274" seo="true" ref="mobile-website-redesign"/>
+    <file name="1947x670.jpg" crc="289677885" seo="true" ref="mobile-website-redesign"/>
+    <file name="3947x670.jpg" crc="4096956955" seo="true" ref="mobile-website-redesign"/>
+    <file name="4947x670.jpg" crc="4052256365" seo="true" ref="mobile-website-redesign"/>
+    <file name="5947x670.jpg" crc="466790522" seo="true" ref="mobile-website-redesign"/>
+    <file name="6947x670.jpg" crc="4128236570" seo="true" ref="mobile-website-redesign"/>
+    <file name="7947x670.jpg" crc="3762877744" seo="true" ref="mobile-website-redesign"/>
+    <file name="85947x732.jpg" crc="377354943" seo="true" ref="mobile-website-redesign"/>
+    <file name="9947x670.jpg" crc="3932930618" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172138.jpg" crc="186428420" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102888.jpg" crc="3816582698" ref="mobile-website-redesign"/>
+    <file name="introdiction847x1312.jpg" crc="447601310" seo="true" ref="mobile-website-redesign"/>
+    <file name="2847x599.jpg" crc="46971578" seo="true" ref="mobile-website-redesign"/>
+    <file name="1847x599.jpg" crc="4246989536" seo="true" ref="mobile-website-redesign"/>
+    <file name="3847x599.jpg" crc="137849856" seo="true" ref="mobile-website-redesign"/>
+    <file name="4847x599.jpg" crc="3894251249" seo="true" ref="mobile-website-redesign"/>
+    <file name="5847x599.jpg" crc="3903350855" seo="true" ref="mobile-website-redesign"/>
+    <file name="6847x599.jpg" crc="332206378" seo="true" ref="mobile-website-redesign"/>
+    <file name="7847x599.jpg" crc="3982506856" seo="true" ref="mobile-website-redesign"/>
+    <file name="85847x655.jpg" crc="247776724" seo="true" ref="mobile-website-redesign"/>
+    <file name="9847x599.jpg" crc="3793384357" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u2172139.jpg" crc="4001915280" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u2102889.jpg" crc="86452415" ref="mobile-website-redesign"/>
+    <file name="introdiction672x1042.jpg" crc="39305496" seo="true" ref="mobile-website-redesign"/>
+    <file name="2672x476.jpg" crc="3993467258" seo="true" ref="mobile-website-redesign"/>
+    <file name="1672x476.jpg" crc="3836166092" seo="true" ref="mobile-website-redesign"/>
+    <file name="3672x476.jpg" crc="3799123835" seo="true" ref="mobile-website-redesign"/>
+    <file name="4672x476.jpg" crc="3758712425" seo="true" ref="mobile-website-redesign"/>
+    <file name="5672x476.jpg" crc="455465371" seo="true" ref="mobile-website-redesign"/>
+    <file name="6672x476.jpg" crc="151198436" seo="true" ref="mobile-website-redesign"/>
+    <file name="7672x476.jpg" crc="3870514568" seo="true" ref="mobile-website-redesign"/>
+    <file name="85672x520.jpg" crc="3995834030" seo="true" ref="mobile-website-redesign"/>
+    <file name="9672x476.jpg" crc="357702781" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u21721310.jpg" crc="4283735849" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u21028810.jpg" crc="405767589" ref="mobile-website-redesign"/>
+    <file name="introdiction575x890.jpg" crc="319947086" seo="true" ref="mobile-website-redesign"/>
+    <file name="2575x406.jpg" crc="489727286" seo="true" ref="mobile-website-redesign"/>
+    <file name="1575x406.jpg" crc="4223559697" seo="true" ref="mobile-website-redesign"/>
+    <file name="3575x406.jpg" crc="470431501" seo="true" ref="mobile-website-redesign"/>
+    <file name="4575x406.jpg" crc="127258467" seo="true" ref="mobile-website-redesign"/>
+    <file name="5575x406.jpg" crc="4259549236" seo="true" ref="mobile-website-redesign"/>
+    <file name="6575x406.jpg" crc="3828041342" seo="true" ref="mobile-website-redesign"/>
+    <file name="7575x406.jpg" crc="226426503" seo="true" ref="mobile-website-redesign"/>
+    <file name="85575x444.jpg" crc="182223070" seo="true" ref="mobile-website-redesign"/>
+    <file name="9575x406.jpg" crc="233385084" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u21721311.jpg" crc="3814300551" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u21028811.jpg" crc="4003867679" ref="mobile-website-redesign"/>
+    <file name="introdiction475x736.jpg" crc="59215885" seo="true" ref="mobile-website-redesign"/>
+    <file name="2475x336.jpg" crc="3938453747" seo="true" ref="mobile-website-redesign"/>
+    <file name="1475x336.jpg" crc="4092421314" seo="true" ref="mobile-website-redesign"/>
+    <file name="3475x336.jpg" crc="122216695" seo="true" ref="mobile-website-redesign"/>
+    <file name="4475x336.jpg" crc="4067757660" seo="true" ref="mobile-website-redesign"/>
+    <file name="5475x336.jpg" crc="4220891460" seo="true" ref="mobile-website-redesign"/>
+    <file name="6475x336.jpg" crc="4200912850" seo="true" ref="mobile-website-redesign"/>
+    <file name="7475x336.jpg" crc="113744574" seo="true" ref="mobile-website-redesign"/>
+    <file name="85475x367.jpg" crc="36971952" seo="true" ref="mobile-website-redesign"/>
+    <file name="9475x336.jpg" crc="4009031817" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u21721312.jpg" crc="35519344" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u21028812.jpg" crc="4110919662" ref="mobile-website-redesign"/>
+    <file name="introdiction403x625.jpg" crc="4145578462" seo="true" ref="mobile-website-redesign"/>
+    <file name="2403x285.jpg" crc="3865073581" seo="true" ref="mobile-website-redesign"/>
+    <file name="1403x285.jpg" crc="110315503" seo="true" ref="mobile-website-redesign"/>
+    <file name="3403x285.jpg" crc="363443931" seo="true" ref="mobile-website-redesign"/>
+    <file name="4403x285.jpg" crc="457432102" seo="true" ref="mobile-website-redesign"/>
+    <file name="5403x285.jpg" crc="332321550" seo="true" ref="mobile-website-redesign"/>
+    <file name="6403x285.jpg" crc="236775754" seo="true" ref="mobile-website-redesign"/>
+    <file name="7403x285.jpg" crc="309394926" seo="true" ref="mobile-website-redesign"/>
+    <file name="85403x312.jpg" crc="247546681" seo="true" ref="mobile-website-redesign"/>
+    <file name="9403x285.jpg" crc="3888318033" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u21721313.jpg" crc="99990531" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u21028813.jpg" crc="79962305" ref="mobile-website-redesign"/>
+    <file name="introdiction352x546.jpg" crc="261329110" seo="true" ref="mobile-website-redesign"/>
+    <file name="2352x249.jpg" crc="3862195171" seo="true" ref="mobile-website-redesign"/>
+    <file name="1352x249.jpg" crc="3802383420" seo="true" ref="mobile-website-redesign"/>
+    <file name="3352x249.jpg" crc="4191739968" seo="true" ref="mobile-website-redesign"/>
+    <file name="4352x249.jpg" crc="4094588766" seo="true" ref="mobile-website-redesign"/>
+    <file name="5352x249.jpg" crc="22146005" seo="true" ref="mobile-website-redesign"/>
+    <file name="6352x249.jpg" crc="455531345" seo="true" ref="mobile-website-redesign"/>
+    <file name="7352x249.jpg" crc="300268833" seo="true" ref="mobile-website-redesign"/>
+    <file name="85352x272.jpg" crc="4240652099" seo="true" ref="mobile-website-redesign"/>
+    <file name="9352x249.jpg" crc="484902891" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u21721314.jpg" crc="4139762890" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u21028814.jpg" crc="4255113081" ref="mobile-website-redesign"/>
+    <file name="introdiction313x485.jpg" crc="4106739240" seo="true" ref="mobile-website-redesign"/>
+    <file name="2313x222.jpg" crc="3861610163" seo="true" ref="mobile-website-redesign"/>
+    <file name="1313x222.jpg" crc="3766181932" seo="true" ref="mobile-website-redesign"/>
+    <file name="3313x222.jpg" crc="156987213" seo="true" ref="mobile-website-redesign"/>
+    <file name="4313x222.jpg" crc="380718877" seo="true" ref="mobile-website-redesign"/>
+    <file name="5313x222.jpg" crc="3813328577" seo="true" ref="mobile-website-redesign"/>
+    <file name="6313x222.jpg" crc="217775580" seo="true" ref="mobile-website-redesign"/>
+    <file name="7313x222.jpg" crc="247769952" seo="true" ref="mobile-website-redesign"/>
+    <file name="85313x242.jpg" crc="4255036836" seo="true" ref="mobile-website-redesign"/>
+    <file name="9313x222.jpg" crc="284578914" seo="true" ref="mobile-website-redesign"/>
+    <file name="conclusions-crop-u21721315.jpg" crc="3931759552" ref="mobile-website-redesign"/>
+    <file name="reference-crop-u21028815.jpg" crc="191545609" ref="mobile-website-redesign"/>
   </folder>
-  <file name="index.html" crc="4128481035" seo="true" mt="1604631180340" redirect="true"/>
-  <file name="squareone.html" crc="492614247" seo="true" mt="1604452493022" redirect="true"/>
-  <file name="astro-lighting.html" crc="377575125" seo="true" mt="1604452493022" redirect="true"/>
-  <file name="hands-free-dog-lead.html" crc="173353613" seo="true" mt="1604454126258" redirect="true"/>
-  <file name="red-cross-emergency-drone.html" crc="267306812" seo="true" mt="1604457891152" redirect="true"/>
-  <file name="the-braille-watch.html" crc="4248577598" seo="true" mt="1604623582935" redirect="true"/>
-  <file name="morphy-richards-steam-iron.html" crc="3928925873" seo="true" mt="1604595457458" redirect="true"/>
-  <file name="ikea-modular-light.html" crc="367899304" seo="true" mt="1604543106512" redirect="true"/>
-  <file name="bosch-youseries---digital-solutions.html" crc="3875227058" seo="true" mt="1604624727145" redirect="true"/>
-  <file name="bosch-youseries.html" crc="3977238769" seo="true" mt="1604625445657" redirect="true"/>
+  <file name="index.html" crc="242413326" seo="true" mt="1614129188798" redirect="true"/>
+  <file name="squareone.html" crc="379249618" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="astro-lighting.html" crc="3994448931" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="hands-free-dog-lead.html" crc="514115069" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="red-cross-emergency-drone.html" crc="195706683" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="the-braille-watch.html" crc="203739212" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="morphy-richards-steam-iron.html" crc="4226136899" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="ikea-modular-light.html" crc="3964638956" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="bosch-youseries---digital-solutions.html" crc="3975198428" seo="true" mt="1614125795410" redirect="true"/>
+  <file name="bosch-youseries.html" crc="284916942" seo="true" mt="1614046298429" redirect="true"/>
+  <file name="squareone-app.html" crc="455522081" seo="true" mt="1614129188800" redirect="true"/>
+  <file name="sheffield-urban-mobility.html" crc="221107008" seo="true" mt="1614126484801" redirect="true"/>
+  <file name="mobile-website-redesign.html" crc="34302757" seo="true" mt="1614128086728" redirect="true"/>
 </manifest>
